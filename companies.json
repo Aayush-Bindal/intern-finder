@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Amazon",
+    "url": "https://www.amazon.jobs/en/search?base_query=intern+2027+india&loc_query=India",
+    "keywords": ["SDE Intern", "Software Development Engineer Intern", "2027", "Product Manager Intern", "summer 2027"]
+  },
+  {
+    "name": "Microsoft",
+    "url": "https://jobs.careers.microsoft.com/global/en/search?q=intern+2027&lc=India",
+    "keywords": ["Software Engineer Intern", "Product Manager Intern", "2027", "summer intern"]
+  },
+  {
+    "name": "Meta",
+    "url": "https://www.metacareers.com/jobs?q=intern+2027&offices=Hyderabad%2C+India",
+    "keywords": ["Software Engineer Intern", "Product Manager Intern", "2027", "summer 2027"]
+  },
+  {
+    "name": "Adobe",
+    "url": "https://careers.adobe.com/us/en/search-results?keywords=intern+2027&location=India",
+    "keywords": ["Software Engineer Intern", "SDE Intern", "Product Manager Intern", "2027", "summer 2027"]
+  },
+  {
+    "name": "Apple",
+    "url": "https://jobs.apple.com/en-us/search?location=india&team=internships-STDNT-INTRN&q=2027",
+    "keywords": ["Software Engineer Intern", "Product Manager Intern", "2027", "summer 2027"]
+  },
+  {
+    "name": "Nvidia",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/UniversityJobs?q=intern+2027",
+    "keywords": ["Software Intern", "Product Intern", "2027", "summer 2027"]
+  },
+  {
+    "name": "Flipkart",
+    "url": "https://www.flipkartcareers.com/#!/joblist",
+    "keywords": ["Intern", "SDE Intern", "Product Intern", "2027", "summer"]
+  },
+  {
+    "name": "Walmart Labs",
+    "url": "https://careers.walmart.com/results?q=intern+2027&locationCountry=IN",
+    "keywords": ["Software Engineer Intern", "SDE Intern", "Product Manager Intern", "2027"]
+  },
+  {
+    "name": "LinkedIn",
+    "url": "https://careers.linkedin.com/students",
+    "keywords": ["Software Engineer Intern", "Product Manager Intern", "2027", "summer 2027"]
+  },
+  {
+    "name": "Uber",
+    "url": "https://www.uber.com/us/en/careers/list/?query=intern+2027&location=India",
+    "keywords": ["Software Engineer Intern", "Product Manager Intern", "2027", "summer 2027"]
+  },
+  {
+    "name": "Atlassian",
+    "url": "https://www.atlassian.com/company/careers/all-jobs?team=Interns&location=India&q=2027",
+    "keywords": ["Software Engineer Intern", "Product Intern", "2027", "summer 2027"]
+  },
+  {
+    "name": "Salesforce",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site?q=intern+2027",
+    "keywords": ["Software Engineer Intern", "Product Manager Intern", "2027", "Futureforce"]
+  },
+  {
+    "name": "Google",
+    "url": "https://careers.google.com/jobs/results/?q=intern+2027&location=India",
+    "keywords": ["Software Engineering Intern", "STEP", "Product Manager Intern", "2027", "summer 2027"]
+  },
+  {
+    "name": "Qualcomm",
+    "url": "https://careers.qualcomm.com/careers/search?q=intern+2027&location=India",
+    "keywords": ["Software Intern", "Engineering Intern", "2027", "summer 2027"]
+  },
+  {
+    "name": "Samsung Research",
+    "url": "https://samsungresearchindia.com/careers",
+    "keywords": ["Intern", "SDE Intern", "2027", "summer"]
+  },
+  {
+    "name": "Razorpay",
+    "url": "https://razorpay.com/jobs/#openings",
+    "keywords": ["Intern", "SDE Intern", "Product Intern", "2027", "summer"]
+  },
+  {
+    "name": "Zomato",
+    "url": "https://www.zomato.com/careers",
+    "keywords": ["Intern", "SDE Intern", "Product Intern", "2027", "summer"]
+  },
+  {
+    "name": "Swiggy",
+    "url": "https://careers.swiggy.com/#/",
+    "keywords": ["Intern", "SDE Intern", "Product Intern", "2027", "summer"]
+  },
+  {
+    "name": "Meesho",
+    "url": "https://careers.meesho.com/",
+    "keywords": ["Intern", "SDE Intern", "Product Intern", "2027", "summer"]
+  },
+  {
+    "name": "CRED",
+    "url": "https://careers.cred.club/",
+    "keywords": ["Intern", "SDE Intern", "Product Intern", "2027", "summer"]
+  }
+]
