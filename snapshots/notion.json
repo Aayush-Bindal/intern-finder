@@ -1,0 +1,25 @@
+{
+  "company": "Notion",
+  "url": "https://www.notion.so/careers",
+  "last_checked": "2026-09-21T22:26:25Z",
+  "text_length": 12152,
+  "text_sha1": "26d93962e6167a2e50f02a47b925d5f662649060",
+  "matches": {
+    "Intern": {
+      "snippet": "…New York Business Development Representative, San Francisco San Francisco, California Data Science Intern (Winter 2027) San Francisco, California Software Engineer, Early Career San Francisco, California S…",
+      "first_seen": "2026-09-21T22:26:25Z"
+    },
+    "Software Engineer Intern": {
+      "snippet": "…rly Career San Francisco, California Software Engineer, Early Career (AI) San Francisco, California Software Engineer Intern (Summer 2027) San Francisco, California; New York, New York Software Engineer Intern (Winter 2027)…",
+      "first_seen": "2026-09-21T22:26:25Z"
+    },
+    "2027": {
+      "snippet": "…ess Development Representative, San Francisco San Francisco, California Data Science Intern (Winter 2027) San Francisco, California Software Engineer, Early Career San Francisco, California Software Engin…",
+      "first_seen": "2026-09-21T22:26:25Z"
+    },
+    "summer": {
+      "snippet": "…California Software Engineer, Early Career (AI) San Francisco, California Software Engineer Intern (Summer 2027) San Francisco, California; New York, New York Software Engineer Intern (Winter 2027) San Fran…",
+      "first_seen": "2026-09-21T22:26:25Z"
+    }
+  }
+}
