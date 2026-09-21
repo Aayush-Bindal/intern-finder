@@ -71,7 +71,7 @@
   },
   {
     "name": "Samsung Research",
-    "url": "https://samsungresearchindia.com/careers",
+    "url": "https://boards.greenhouse.io/samsungresearchamerica",
     "keywords": ["Intern", "SDE Intern", "2027", "summer"]
   },
   {
@@ -81,7 +81,7 @@
   },
   {
     "name": "Zomato",
-    "url": "https://www.zomato.com/careers",
+    "url": "https://www.linkedin.com/jobs/search/?keywords=zomato+intern+2027",
     "keywords": ["Intern", "SDE Intern", "Product Intern", "2027", "summer"]
   },
   {
@@ -91,12 +91,82 @@
   },
   {
     "name": "Meesho",
-    "url": "https://careers.meesho.com/",
+    "url": "https://meesho.io/jobs",
     "keywords": ["Intern", "SDE Intern", "Product Intern", "2027", "summer"]
   },
   {
     "name": "CRED",
-    "url": "https://careers.cred.club/",
+    "url": "https://careers.cred.club/openings",
     "keywords": ["Intern", "SDE Intern", "Product Intern", "2027", "summer"]
+  },
+  {
+    "name": "Anthropic",
+    "url": "https://www.anthropic.com/careers#open-roles",
+    "keywords": ["Intern", "Software Engineer Intern", "2027", "summer"]
+  },
+  {
+    "name": "OpenAI",
+    "url": "https://openai.com/careers",
+    "keywords": ["Intern", "Software Engineer Intern", "2027", "summer 2027"]
+  },
+  {
+    "name": "Stripe",
+    "url": "https://stripe.com/jobs/search?q=intern+2027",
+    "keywords": ["Software Engineer Intern", "2027", "summer 2027"]
+  },
+  {
+    "name": "Notion",
+    "url": "https://www.notion.so/careers",
+    "keywords": ["Intern", "Software Engineer Intern", "2027", "summer"]
+  },
+  {
+    "name": "Figma",
+    "url": "https://www.figma.com/careers/",
+    "keywords": ["Intern", "Software Engineer Intern", "2027", "summer"]
+  },
+  {
+    "name": "Zepto",
+    "url": "https://www.zeptonow.com/careers",
+    "keywords": ["Intern", "SDE Intern", "Product Intern", "2027", "summer"]
+  },
+  {
+    "name": "PhonePe",
+    "url": "https://www.phonepe.com/careers/",
+    "keywords": ["Intern", "SDE Intern", "Product Intern", "2027", "summer"]
+  },
+  {
+    "name": "Groww",
+    "url": "https://groww.in/careers",
+    "keywords": ["Intern", "SDE Intern", "Product Intern", "2027", "summer"]
+  },
+  {
+    "name": "Postman",
+    "url": "https://www.postman.com/company/careers/",
+    "keywords": ["Intern", "Software Engineer Intern", "2027", "summer"]
+  },
+  {
+    "name": "Browserstack",
+    "url": "https://www.browserstack.com/careers",
+    "keywords": ["Intern", "SDE Intern", "2027", "summer"]
+  },
+  {
+    "name": "Sarvam AI",
+    "url": "https://www.sarvam.ai/careers",
+    "keywords": ["Intern", "Software Engineer Intern", "2027", "summer"]
+  },
+  {
+    "name": "Krutrim",
+    "url": "https://krutrim.com/careers",
+    "keywords": ["Intern", "Software Engineer Intern", "2027", "summer"]
+  },
+  {
+    "name": "Vercel",
+    "url": "https://vercel.com/careers",
+    "keywords": ["Intern", "Software Engineer Intern", "2027", "summer"]
+  },
+  {
+    "name": "Linear",
+    "url": "https://linear.app/careers",
+    "keywords": ["Intern", "Software Engineer Intern", "2027", "summer"]
   }
 ]
