@@ -1,16 +1,16 @@
 {
   "company": "Vercel",
   "url": "https://vercel.com/careers",
-  "last_checked": "2026-09-22T16:28:19Z",
-  "text_length": 5645,
-  "text_sha1": "7ad6828132fe9648a584abf376f380a32d9720ec",
+  "last_checked": "2026-09-22T21:01:41Z",
+  "text_length": 5765,
+  "text_sha1": "40cd2782606163034cfdc52131a202e9d8dbf769",
   "matches": {
     "Intern": {
-      "snippet": "…r of the Technical Staff, GTM New York City, San Francisco Read more Member of the Technical Staff, Internal Agent San Francisco Read more Member of the Technical Staff - Next.js New York City, San Francisc…",
+      "snippet": "…ncisco Read more Software Engineer, GTM New York City, San Francisco Read more Software Engineering Intern - Summer '27 San Francisco Read more Software Engineering Intern - Winter '27 San Francisco Read mo…",
       "first_seen": "2026-09-21T22:27:50Z"
     },
     "summer": {
-      "snippet": "…ad more Software Engineer, eve New York City, San Francisco Read more Software Engineering Intern - Summer '27 San Francisco Read more Software Engineering Intern - Winter '27 San Francisco Read more Softwa…",
+      "snippet": "…ad more Software Engineer, GTM New York City, San Francisco Read more Software Engineering Intern - Summer '27 San Francisco Read more Software Engineering Intern - Winter '27 San Francisco Read more Softwa…",
       "first_seen": "2026-09-21T22:27:50Z"
     }
   }
