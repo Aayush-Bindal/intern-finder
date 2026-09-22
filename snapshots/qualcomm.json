@@ -1,17 +1,8 @@
 {
   "company": "Qualcomm",
   "url": "https://careers.qualcomm.com/careers/search?q=intern+2027&location=India",
-  "last_checked": "2026-09-22T03:36:53Z",
-  "text_length": 8631,
-  "text_sha1": "d31202a690ccfaca02acb803b5a7fde6405093c3",
-  "matches": {
-    "Engineering Intern": {
-      "snippet": "…te Engineer_SW Hyderabad, Telangāna, India + 1 more Software Engineering Posted 13 days ago Interim Engineering Intern_2027_HW Bangalore, India + 1 more Interim Engineering Intern - HW Posted 13 days ago GPU DV Staff/S…",
-      "first_seen": "2026-09-22T03:36:52Z"
-    },
-    "2027": {
-      "snippet": "…SOC Power Architecture Enigneer Hyderabad, Telangāna, India Hardware Engineering Posted a month ago 2027 Campus Hire_Engineer_SW Hyderabad, Telangāna, India Software Engineering Posted 13 days ago 2027 Ca…",
-      "first_seen": "2026-09-22T03:36:52Z"
-    }
-  }
+  "last_checked": "2026-09-22T11:05:14Z",
+  "text_length": 9209,
+  "text_sha1": "1cca532913ef318e6321bc9f651603aacd114d6c",
+  "matches": {}
 }
