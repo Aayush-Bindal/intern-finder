@@ -1,9 +1,9 @@
 {
   "company": "Figma",
   "url": "https://www.figma.com/careers/",
-  "last_checked": "2026-09-23T16:17:14Z",
-  "text_length": 12413,
-  "text_sha1": "35cc6dc72730f90b790840bbc0547cb7be017de2",
+  "last_checked": "2026-09-23T21:13:56Z",
+  "text_length": 12030,
+  "text_sha1": "e269417ca2a54d2e1d6d6324d708e9c9de32767f",
   "matches": {
     "Intern": {
       "snippet": "…nning for all that we do at Figma—we believe that a great product is inextricably linked to a great internal community. Build community We’re multiplayer people who love the weird, wonderful magic that happ…",
@@ -14,11 +14,11 @@
       "first_seen": "2026-09-21T22:26:40Z"
     },
     "2027": {
-      "snippet": "…don, United Kingdom) Researcher, Figma Agentic Experiences Early Career Brand Design Intern (Summer 2027) Data Science Intern (2027) Data Scientist, Core Data - PhD (2026) Early Career, Product Designer (…",
+      "snippet": "…don, United Kingdom) Researcher, Figma Agentic Experiences Early Career Brand Design Intern (Summer 2027) Data Engineer Intern (2027) Data Science Intern (2027) Data Scientist, Core Data - PhD (2026) Earl…",
       "first_seen": "2026-09-21T22:26:40Z"
     },
     "summer": {
-      "snippet": "…ng (London, United Kingdom) Researcher, Figma Agentic Experiences Early Career Brand Design Intern (Summer 2027) Data Science Intern (2027) Data Scientist, Core Data - PhD (2026) Early Career, Product Desig…",
+      "snippet": "…ng (London, United Kingdom) Researcher, Figma Agentic Experiences Early Career Brand Design Intern (Summer 2027) Data Engineer Intern (2027) Data Science Intern (2027) Data Scientist, Core Data - PhD (2026)…",
       "first_seen": "2026-09-21T22:26:40Z"
     }
   }
