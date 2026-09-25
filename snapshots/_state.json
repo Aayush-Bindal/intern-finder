@@ -1,9 +1,8 @@
 {
-  "last_run": "2026-09-25T16:46:09Z",
+  "last_run": "2026-09-25T21:14:29Z",
   "companies_checked": 34,
   "failures": [
-    "OpenAI",
     "Krutrim"
   ],
-  "emails_sent": 0
+  "emails_sent": 1
 }
