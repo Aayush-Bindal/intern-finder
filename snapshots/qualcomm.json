@@ -1,8 +1,13 @@
 {
   "company": "Qualcomm",
   "url": "https://careers.qualcomm.com/careers/search?q=intern+2027&location=India",
-  "last_checked": "2026-09-26T15:55:42Z",
-  "text_length": 9478,
-  "text_sha1": "50ac08bfdc067cf8386f9ca5aabec592bca58ea9",
-  "matches": {}
+  "last_checked": "2026-09-26T20:44:27Z",
+  "text_length": 8699,
+  "text_sha1": "4764f751799f2015458edc54a89a15e8a20636d4",
+  "matches": {
+    "2027": {
+      "snippet": "…days ago Lead Engineer, Senior Hyderabad, Telangāna, India Software Engineering Posted a month ago 2027 Campus Hire_Engineer_SW Hyderabad, Telangāna, India Software Engineering Posted 18 days ago FOSS Co…",
+      "first_seen": "2026-09-26T20:44:26Z"
+    }
+  }
 }
