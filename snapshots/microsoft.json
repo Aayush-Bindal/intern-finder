@@ -1,8 +1,13 @@
 {
   "company": "Microsoft",
   "url": "https://jobs.careers.microsoft.com/global/en/search?q=intern+2027&lc=India",
-  "last_checked": "2026-09-28T03:57:48Z",
-  "text_length": 11620,
-  "text_sha1": "133af4adb19a8936324047328e5463b70abfba31",
-  "matches": {}
+  "last_checked": "2026-09-28T13:03:36Z",
+  "text_length": 11424,
+  "text_sha1": "79495c11014d60e4f8d561d1fa78c73fdfc6c08d",
+  "matches": {
+    "Software Engineer Intern": {
+      "snippet": "…2 hours ago Services Account Manager France, Hauts-de-Seine, Issy Les Moulineaux Posted 2 hours ago Software Engineer Internship Opportunities Romania, Bucharest, Bucharest + 2 more Posted 2 hours ago Principal Software Engi…",
+      "first_seen": "2026-09-28T13:03:35Z"
+    }
+  }
 }
