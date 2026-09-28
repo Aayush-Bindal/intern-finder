@@ -1,8 +1,8 @@
 {
   "company": "Apple",
-  "url": "https://jobs.apple.com/en-us/search?location=india&team=internships-STDNT-INTRN&q=2027",
-  "last_checked": "2026-09-28T13:03:56Z",
-  "text_length": 3428,
-  "text_sha1": "f9f30456b50b9896dfe434b82dcf24ecbe9eb80d",
+  "url": "https://jobs.apple.com/en-us/search?location=india",
+  "last_checked": "2026-09-28T15:13:21Z",
+  "text_length": 3367,
+  "text_sha1": "a1caa62cec109b3ad8519fdeaa6e06d698a84526",
   "matches": {}
 }

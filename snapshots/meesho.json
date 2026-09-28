@@ -1,13 +1,8 @@
 {
   "company": "Meesho",
-  "url": "https://meesho.io/jobs",
-  "last_checked": "2026-09-28T13:05:57Z",
-  "text_length": 1476,
-  "text_sha1": "f369530847c5a6844dab73fd6645e75e0becce47",
-  "matches": {
-    "Intern": {
-      "snippet": "…on the Meesho Rocketship? PRODUCT AND DESIGN ENGINEERING DATA SCIENCE EXPLORE ALL ROLES Search job Internships Show internships Loading jobs, across all teams & all locations AM/ Manager - Risk & Decision…",
-      "first_seen": "2026-09-21T22:25:36Z"
-    }
-  }
+  "url": "https://www.meesho.io/jobs",
+  "last_checked": "2026-09-28T15:14:53Z",
+  "text_length": 1483,
+  "text_sha1": "6c8cd0f6187248a165b8d8c5f2353719a2128bc9",
+  "matches": {}
 }

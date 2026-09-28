@@ -1,13 +1,13 @@
 {
   "company": "Qualcomm",
-  "url": "https://careers.qualcomm.com/careers/search?q=intern+2027&location=India",
-  "last_checked": "2026-09-28T13:05:13Z",
-  "text_length": 8173,
-  "text_sha1": "9ac664b9dd12d1e0257d9ad474b79801125b9fac",
+  "url": "https://careers.qualcomm.com/careers/search?location=India",
+  "last_checked": "2026-09-28T15:14:17Z",
+  "text_length": 8122,
+  "text_sha1": "24f760779327f591a698cee2e9804e3057d564be",
   "matches": {
-    "2027": {
-      "snippet": "…urney Upload your resume 586 jobs Sort: Distance Show map Turn on job alerts for this search Manage 2027 Campus Hire_Engineer_SW Hyderabad, Telangāna, India Software Engineering Posted 20 days ago 2027 Ca…",
-      "first_seen": "2026-09-28T13:05:12Z"
+    "Engineer": {
+      "snippet": "…resume 586 jobs Sort: Distance Show map Turn on job alerts for this search Manage 2027 Campus Hire_Engineer_SW Hyderabad, Telangāna, India Software Engineering Posted 20 days ago 2027 Campus Hire_Associate E…",
+      "first_seen": "2026-09-28T15:14:16Z"
     }
   }
 }

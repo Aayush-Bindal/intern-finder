@@ -1,13 +1,8 @@
 {
   "company": "Salesforce",
-  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site?q=intern+2027",
-  "last_checked": "2026-09-28T13:04:58Z",
-  "text_length": 2748,
-  "text_sha1": "7b329f8c0e068e432754807b57b59d0a9bbfa266",
-  "matches": {
-    "2027": {
-      "snippet": "…n In Search for Jobs Search Filters Location Time Type Country More Filters Applied Search: \"intern+2027\" Clear All (1) Search for Jobs page is loaded 17 JOBS FOUND Sales Intern (North) locations Germany…",
-      "first_seen": "2026-09-21T22:07:05Z"
-    }
-  }
+  "url": "https://careers.salesforce.com/en/jobs/?location=India",
+  "last_checked": "2026-09-28T15:14:02Z",
+  "text_length": 220,
+  "text_sha1": "b81845ea0276fd636fa24fdb7c5d88491cfc9f33",
+  "matches": {}
 }
