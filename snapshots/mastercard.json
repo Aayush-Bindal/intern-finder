@@ -1,16 +1,16 @@
 {
   "company": "Mastercard",
   "url": "https://careers.mastercard.com/",
-  "last_checked": "2026-10-01T04:37:46Z",
-  "text_length": 5591,
-  "text_sha1": "671d716bafbe0cae31667b8563196219f68c1997",
+  "last_checked": "2026-10-01T12:44:06Z",
+  "text_length": 5600,
+  "text_sha1": "575cf4e1edee3b5ed06728d2d10f74df938e4a13",
   "matches": {
     "Intern": {
       "snippet": "…atbot Sounds A quick heads up to let you know that when you use our AI-powered chat bot, Mastercard International Inc. and its affiliates and third-party suppliers process your personal information in conne…",
       "first_seen": "2026-09-28T15:24:28Z"
     },
     "Software Engineer": {
-      "snippet": "…View the government form and more information about this requirement. Be the First to Apply Senior Software Engineer Location Pune, India, 411006 Category Engineering Job ID R-211833 Our PurposeMastercard powers econ…",
+      "snippet": "…View the government form and more information about this requirement. Be the First to Apply Senior Software Engineer Location Pune, India, 411006 Category Engineering Job ID R-211833 Design and develop test automatio…",
       "first_seen": "2026-09-28T15:24:28Z"
     }
   }

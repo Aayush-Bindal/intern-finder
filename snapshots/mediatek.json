@@ -1,13 +1,8 @@
 {
   "company": "MediaTek",
   "url": "https://corp.mediatek.com/careers",
-  "last_checked": "2026-10-01T04:36:42Z",
-  "text_length": 11662,
-  "text_sha1": "662a5a596f2239eadc5732ed41d48ff827a43897",
-  "matches": {
-    "Intern": {
-      "snippet": "…st computing. Powering Gen-AI experience with uncompromising performance and efficiency. Learn More Internet of Things Simplifying complex IoT design. Integrated platforms spanning edge intelligence, global…",
-      "first_seen": "2026-09-29T12:24:40Z"
-    }
-  }
+  "last_checked": "2026-10-01T12:43:04Z",
+  "text_length": 488,
+  "text_sha1": "324b18985d40e1dc4849865ac1a361463a7b8d9b",
+  "matches": {}
 }

@@ -1,12 +1,12 @@
 {
   "company": "Amazon",
   "url": "https://www.amazon.jobs/en/search?loc_query=India",
-  "last_checked": "2026-10-01T04:27:01Z",
-  "text_length": 46865,
-  "text_sha1": "25fa5d2471c00054b0a0d4abfcb1991d3e8b74f4",
+  "last_checked": "2026-10-01T12:33:22Z",
+  "text_length": 45243,
+  "text_sha1": "16fdaa433575ba6b148691576dbd50796c3437c8",
   "matches": {
     "Summer": {
-      "snippet": "…obs Sereď(4) 4 jobs Shinagawa-ku(4) 4 jobs Sidney(4) 4 jobs South Bend(4) 4 jobs St Cloud(4) 4 jobs Summerville(4) 4 jobs Sutton Coldfield(4) 4 jobs Szczecin(4) 4 jobs Texarkana(4) 4 jobs Tomigusuku-shi(4)…",
+      "snippet": "…obs Sereď(4) 4 jobs Shinagawa-ku(4) 4 jobs Sidney(4) 4 jobs South Bend(4) 4 jobs St Cloud(4) 4 jobs Summerville(4) 4 jobs Szczecin(4) 4 jobs Tolleson(4) 4 jobs Tomigusuku-shi(4) 4 jobs Trierweiler(4) 4 jobs…",
       "first_seen": "2026-09-28T15:12:58Z"
     }
   }
