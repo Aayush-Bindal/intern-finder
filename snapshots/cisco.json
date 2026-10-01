@@ -1,13 +1,17 @@
 {
   "company": "Cisco",
   "url": "https://careers.cisco.com/india/etr-jobs",
-  "last_checked": "2026-10-01T12:40:50Z",
-  "text_length": 9559,
-  "text_sha1": "60a613563613181d0a153a79e44af617f547198a",
+  "last_checked": "2026-10-01T22:31:32Z",
+  "text_length": 10128,
+  "text_sha1": "2970ad0ed8bc3038f572495260c75c03a6e3e993",
   "matches": {
     "Intern": {
       "snippet": "…0) Global Sign up - Build what's next Turn your curiosity into capability. Whether you're exploring internships, apprenticeships, or early careers, get hands-on experience, guidance from inspiring leaders,…",
       "first_seen": "2026-09-28T15:20:51Z"
+    },
+    "Graduate": {
+      "snippet": "…and experience in data engineering. Apply Now Talent Acquisition Coordinator Trainee_Non-Technical Graduate Apprentice - India UHR Location: BANGALORE, Karnātaka, India Category: Internships, Apprenticeships…",
+      "first_seen": "2026-10-01T22:31:32Z"
     },
     "Software Engineer": {
       "snippet": "…ctional teams, and gain the confidence to contribute meaningfully to real-world projects.\" Anand G. Software Engineer \"Cisco’s culture is unique—mentorship is constant, leadership is accessible, and every voice is hea…",
