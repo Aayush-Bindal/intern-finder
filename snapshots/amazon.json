@@ -1,10 +1,18 @@
 {
   "company": "Amazon",
   "url": "https://www.amazon.jobs/en/search?loc_query=India",
-  "last_checked": "2026-10-02T04:20:18Z",
-  "text_length": 45799,
-  "text_sha1": "95cfa32e8711168bcf5aba91cd4a60c0cc096e6a",
+  "last_checked": "2026-10-02T11:58:50Z",
+  "text_length": 46256,
+  "text_sha1": "0478fb49df0f506208f78abf554c407b47dd3005",
   "matches": {
+    "2027 Internship": {
+      "snippet": "…area, including weekends, nights, and/or holidays ...Read more Data Center Engineering Operations - 2027 Internship Zaragoza, ESP +1 other locations | Job ID: 10567712 Posted October 2, 2026 (Updated 32 minutes ago)…",
+      "first_seen": "2026-10-02T11:58:49Z"
+    },
+    "2027 Intern": {
+      "snippet": "…area, including weekends, nights, and/or holidays ...Read more Data Center Engineering Operations - 2027 Internship Zaragoza, ESP +1 other locations | Job ID: 10567712 Posted October 2, 2026 (Updated 32 minutes…",
+      "first_seen": "2026-10-02T11:58:49Z"
+    },
     "Summer": {
       "snippet": "…gawa-ku(4) 4 jobs Sidney(4) 4 jobs South Bend(4) 4 jobs Spokane Valley(4) 4 jobs St Cloud(4) 4 jobs Summerville(4) 4 jobs Szczecin(4) 4 jobs São João de Meriti(4) 4 jobs Tolleson(4) 4 jobs Tomigusuku-shi(4)…",
       "first_seen": "2026-09-28T15:12:58Z"
