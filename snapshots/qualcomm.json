@@ -1,12 +1,16 @@
 {
   "company": "Qualcomm",
   "url": "https://careers.qualcomm.com/careers/search?location=India",
-  "last_checked": "2026-10-02T17:49:27Z",
-  "text_length": 7665,
-  "text_sha1": "483a3ca359ed2b39056ed7155d74ba928ce04e1d",
+  "last_checked": "2026-10-02T21:54:23Z",
+  "text_length": 10965,
+  "text_sha1": "768f2726f9af42d0e8ca6bb8b9c108ecc1327939",
   "matches": {
+    "Engineering Intern": {
+      "snippet": "…te Engineer_SW Hyderabad, Telangāna, India + 1 more Software Engineering Posted 24 days ago Interim Engineering Intern_2027_HW Bangalore, India + 1 more Interim Engineering Intern - HW Posted 24 days ago Interim Engine…",
+      "first_seen": "2026-10-02T21:54:23Z"
+    },
     "Engineer": {
-      "snippet": "…urney Upload your resume 573 jobs Sort: Distance Show map Turn on job alerts for this search Manage Engineer - Camera Systems (3A) Hyderabad, Telangāna, India Systems Engineering Posted 2 months ago Engineer,…",
+      "snippet": "…your resume 573 jobs Sort: Distance Show map Turn on job alerts for this search Manage Senior Lead Engineer – AI Platform Architecture & Engineering Hyderabad, Telangāna, India Software Engineering Posted 2…",
       "first_seen": "2026-09-28T15:14:16Z"
     }
   }
