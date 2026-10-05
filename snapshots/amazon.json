@@ -1,12 +1,12 @@
 {
   "company": "Amazon",
   "url": "https://www.amazon.jobs/en/search?loc_query=India",
-  "last_checked": "2026-10-05T04:20:53Z",
-  "text_length": 45216,
-  "text_sha1": "d8cbd0d9b646dd82a336c8cab15dfeac9461e046",
+  "last_checked": "2026-10-05T13:45:47Z",
+  "text_length": 45772,
+  "text_sha1": "68bbb7a9267fe3c0ef698f7dba3f0b9806e18419",
   "matches": {
     "Summer": {
-      "snippet": "…y(4) 4 jobs Sindelfingen(4) 4 jobs South Bend(4) 4 jobs Spokane Valley(4) 4 jobs St Cloud(4) 4 jobs Summerville(4) 4 jobs Sutton Coldfield(4) 4 jobs São João de Meriti(4) 4 jobs Tolleson(4) 4 jobs Tomigusuk…",
+      "snippet": "…en(4) 4 jobs South Bend(4) 4 jobs Southampton(4) 4 jobs Spokane Valley(4) 4 jobs St Cloud(4) 4 jobs Summerville(4) 4 jobs Sutton Coldfield(4) 4 jobs São João de Meriti(4) 4 jobs Tolleson(4) 4 jobs Tomigusuk…",
       "first_seen": "2026-09-28T15:12:58Z"
     }
   }

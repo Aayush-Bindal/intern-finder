@@ -1,12 +1,12 @@
 {
   "company": "LattIQ",
   "url": "https://lattiq.com/careers",
-  "last_checked": "2026-10-05T04:32:59Z",
-  "text_length": 1072,
-  "text_sha1": "547768e0b28d434d36861d4fbfbe9c3590e8a09f",
+  "last_checked": "2026-10-05T13:58:07Z",
+  "text_length": 1080,
+  "text_sha1": "f464cd96811b795a53eb92d26fceb2d34163a491",
   "matches": {
     "SDE Intern": {
-      "snippet": "…he obvious solution is off the table? What we build → OPEN ROLES Come build it with us. 1 ROLE OPEN SDE Intern A generalist engineering track covering backend services, data pipelines and web surfaces. You'll b…",
+      "snippet": "…e obvious solution is off the table? What we build → OPEN ROLES Come build it with us. 0 ROLES OPEN SDE Intern CLOSED A generalist engineering track covering backend services, data pipelines and web surfaces. Y…",
       "first_seen": "2026-09-28T15:25:45Z"
     }
   }
