@@ -1,12 +1,12 @@
 {
   "company": "Instawork",
   "url": "https://job-boards.greenhouse.io/instawork",
-  "last_checked": "2026-10-04T21:09:19Z",
-  "text_length": 3984,
-  "text_sha1": "977d0a036ffe1ba07a2de6a354c2a14dfd116fce",
+  "last_checked": "2026-10-05T04:34:08Z",
+  "text_length": 3999,
+  "text_sha1": "9ef4d96928036d5f80e90d157997a048b82c5f14",
   "matches": {
     "Hardware Intern": {
-      "snippet": "…nataka, India Field Sales Bengaluru, Karnataka, India Finance Associate Bengaluru, Karnataka, India Hardware Intern — Robotics & AI Bengaluru, Karnataka, India Hardware Technician LeadNew Bengaluru, Karnataka, India…",
+      "snippet": "…nataka, India Field Sales Bengaluru, Karnataka, India Finance Associate Bengaluru, Karnataka, India Hardware Intern — Robotics & AI Bengaluru, Karnataka, India Hardware Technician Lead || Night ShiftNew Bengaluru, K…",
       "first_seen": "2026-09-28T15:27:06Z"
     },
     "IT Intern": {
@@ -14,7 +14,7 @@
       "first_seen": "2026-09-28T15:27:06Z"
     },
     "Intern": {
-      "snippet": "…ndia Field Sales Bengaluru, Karnataka, India Finance Associate Bengaluru, Karnataka, India Hardware Intern — Robotics & AI Bengaluru, Karnataka, India Hardware Technician LeadNew Bengaluru, Karnataka, India…",
+      "snippet": "…ndia Field Sales Bengaluru, Karnataka, India Finance Associate Bengaluru, Karnataka, India Hardware Intern — Robotics & AI Bengaluru, Karnataka, India Hardware Technician Lead || Night ShiftNew Bengaluru, K…",
       "first_seen": "2026-09-28T15:27:06Z"
     }
   }
