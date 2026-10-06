@@ -1,13 +1,17 @@
 {
   "company": "Mastercard",
   "url": "https://careers.mastercard.com/",
-  "last_checked": "2026-10-06T05:20:01Z",
-  "text_length": 6211,
-  "text_sha1": "dcb6e97a69bd4a4fd1e3cf25f43ba909560e4ce1",
+  "last_checked": "2026-10-06T13:02:43Z",
+  "text_length": 6141,
+  "text_sha1": "eb4ebb2a867893682420e704f405c59b0fa3b876",
   "matches": {
     "Intern": {
       "snippet": "…atbot Sounds A quick heads up to let you know that when you use our AI-powered chat bot, Mastercard International Inc. and its affiliates and third-party suppliers process your personal information in conne…",
       "first_seen": "2026-09-28T15:24:28Z"
+    },
+    "Software Engineer": {
+      "snippet": "…l. View the government form and more information about this requirement. Be the First to Apply Lead Software Engineer (Java) Location Pune, India, 411006 Category Engineering Job ID R-289611 Become part of our team as…",
+      "first_seen": "2026-10-06T13:02:42Z"
     }
   }
 }
