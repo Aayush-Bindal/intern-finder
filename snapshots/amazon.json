@@ -1,12 +1,12 @@
 {
   "company": "Amazon",
   "url": "https://www.amazon.jobs/en/search?loc_query=India",
-  "last_checked": "2026-10-06T12:51:43Z",
-  "text_length": 47986,
-  "text_sha1": "02a0624e481649fec12f01920344cd4c6191fc4a",
+  "last_checked": "2026-10-06T22:24:11Z",
+  "text_length": 45208,
+  "text_sha1": "e34df7fdefc126321a99e9a2b33027bb2f92f87c",
   "matches": {
     "Summer": {
-      "snippet": "…Leandro(5) 5 jobs Sauget(5) 5 jobs Schortens(5) 5 jobs Shippensburg(5) 5 jobs Simi Valley(5) 5 jobs Summerville(5) 5 jobs Szczecin(5) 5 jobs São João de Meriti(5) 5 jobs Toulouse(5) 5 jobs Union(5) 5 jobs U…",
+      "snippet": "…ro(5) 5 jobs Schortens(5) 5 jobs Shippensburg(5) 5 jobs Simi Valley(5) 5 jobs Spilamberto(5) 5 jobs Summerville(5) 5 jobs Szczecin(5) 5 jobs São João de Meriti(5) 5 jobs Temple Terrace(5) 5 jobs Toulouse(5)…",
       "first_seen": "2026-09-28T15:12:58Z"
     }
   }
