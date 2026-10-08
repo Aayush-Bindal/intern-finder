@@ -1,12 +1,16 @@
 {
   "company": "Amazon",
   "url": "https://www.amazon.jobs/en/search?loc_query=India",
-  "last_checked": "2026-10-08T04:46:14Z",
-  "text_length": 46218,
-  "text_sha1": "c02f871aae1740815b6fa725ad2746275f22e85b",
+  "last_checked": "2026-10-08T12:54:38Z",
+  "text_length": 45640,
+  "text_sha1": "5363513a0865ffc9cec19b93ab63c79597a98e07",
   "matches": {
+    "Graduating in 2028": {
+      "snippet": "…osted October 8, 2026 (Updated 13 minutes ago) Basic qualifications: Currently in your penultimate (graduating in 2028) or last year, and working towards a university degree in Supply Chain, Business/Management, Engine…",
+      "first_seen": "2026-10-08T12:54:37Z"
+    },
     "Summer": {
-      "snippet": "…ortens(5) 5 jobs Shippensburg(5) 5 jobs Siero(5) 5 jobs Simi Valley(5) 5 jobs Spilamberto(5) 5 jobs Summerville(5) 5 jobs Szczecin(5) 5 jobs São João de Meriti(5) 5 jobs Temple Terrace(5) 5 jobs Toulouse(5)…",
+      "snippet": "…ortens(5) 5 jobs Shippensburg(5) 5 jobs Siero(5) 5 jobs Simi Valley(5) 5 jobs Spilamberto(5) 5 jobs Summerville(5) 5 jobs Szczecin(5) 5 jobs São João de Meriti(5) 5 jobs Temple Terrace(5) 5 jobs Union(5) 5…",
       "first_seen": "2026-09-28T15:12:58Z"
     }
   }
