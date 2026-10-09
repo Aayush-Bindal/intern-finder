@@ -1,16 +1,16 @@
 {
   "company": "Mastercard",
   "url": "https://careers.mastercard.com/",
-  "last_checked": "2026-10-08T23:11:07Z",
-  "text_length": 6185,
-  "text_sha1": "d05e681661994bca72ce7c09c1fa7c02af7d7a73",
+  "last_checked": "2026-10-09T05:00:32Z",
+  "text_length": 5173,
+  "text_sha1": "51b0aeb506e9567a144cfb75a9968de07dbdef5e",
   "matches": {
     "Intern": {
       "snippet": "…atbot Sounds A quick heads up to let you know that when you use our AI-powered chat bot, Mastercard International Inc. and its affiliates and third-party suppliers process your personal information in conne…",
       "first_seen": "2026-09-28T15:24:28Z"
     },
     "Software Engineer": {
-      "snippet": "…government form and more information about this requirement. Be the First to Apply Vice President, Software Engineering Location New York, United States of America, 10016 Category Engineering Job ID R-286632 Take on…",
+      "snippet": "…View the government form and more information about this requirement. Be the First to Apply Senior Software Engineer Location O Fallon, United States of America, 63368-7263 Category Engineering Job ID R-287829 Become…",
       "first_seen": "2026-10-08T04:57:09Z"
     }
   }
