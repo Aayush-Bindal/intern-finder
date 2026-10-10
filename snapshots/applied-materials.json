@@ -1,12 +1,16 @@
 {
   "company": "Applied Materials",
   "url": "https://careers.appliedmaterials.com/",
-  "last_checked": "2026-10-10T04:45:52Z",
-  "text_length": 8941,
-  "text_sha1": "852fefcc01042968c5b127a5a8c954070c3aba44",
+  "last_checked": "2026-10-10T12:09:48Z",
+  "text_length": 8894,
+  "text_sha1": "0ffc4a00fe89c3d581e5e9aa44a6d22b7f43bc8e",
   "matches": {
+    "2027 Summer": {
+      "snippet": "…t Posted 12 hours ago Customer Engineer III Dalian,CHN Customer Service & Support Posted 2 days ago 2027 Summer Mechanical Engineer Intern - BS or MS (Gloucester, MA) Gloucester,MA Interns Posted 2 days ago 2027…",
+      "first_seen": "2026-10-10T12:09:48Z"
+    },
     "Intern": {
-      "snippet": "…er Engineer Singapore,SGP Customer Service & Support Posted 5 hours ago Software Engineering Summer Intern (Masters - Santa Clara, CA) Santa Clara,CA Engineering; Interns Posted a day ago Industrial Enginee…",
+      "snippet": "…ngineer III Dalian,CHN Customer Service & Support Posted 2 days ago 2027 Summer Mechanical Engineer Intern - BS or MS (Gloucester, MA) Gloucester,MA Interns Posted 2 days ago 2027 Summer Electrical Engineer…",
       "first_seen": "2026-09-28T15:23:34Z"
     }
   }

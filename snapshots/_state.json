@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-10-10T04:49:18Z",
+  "last_run": "2026-10-10T12:13:07Z",
   "companies_checked": 95,
   "failures": [
     "Krutrim",
@@ -9,9 +9,10 @@
     "MakeMyTrip",
     "Udaan",
     "OfBusiness",
+    "Dell Technologies",
     "Honeywell",
     "Schneider Electric",
     "Morgan Stanley"
   ],
-  "emails_sent": 0
+  "emails_sent": 1
 }
