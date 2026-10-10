@@ -1,25 +1,13 @@
 {
   "company": "Qualcomm",
   "url": "https://careers.qualcomm.com/careers/search?location=India",
-  "last_checked": "2026-10-10T17:19:09Z",
-  "text_length": 7751,
-  "text_sha1": "a8c4bf42126d1afdfc465db86c0469f0ba357195",
+  "last_checked": "2026-10-10T21:15:48Z",
+  "text_length": 8738,
+  "text_sha1": "c2e8a6d97c054a40f31d0001fa0134fe5d488386",
   "matches": {
-    "Summer 2027": {
-      "snippet": "…iwan Hardware Engineering Posted 19 days ago RF/Analog Design/Mixed-Signal Engineering Internship – Summer 2027 San Diego, California, United States of America + 3 more Interim Engineering Intern - HW Posted 23…",
-      "first_seen": "2026-10-10T17:19:07Z"
-    },
-    "Engineering Intern": {
-      "snippet": "…of America Cellular Technologies Posted 24 days ago 2026 Intern-RF Engineer Shanghai, China Interim Engineering Intern - SW Posted 7 months ago Modem/GNSS Systems Engineer Hyderabad, Telangāna, India Systems Engineerin…",
-      "first_seen": "2026-10-10T17:19:07Z"
-    },
     "Engineer": {
-      "snippet": "…resume 580 jobs Sort: Distance Show map Turn on job alerts for this search Manage Senior RF Systems Engineer Hyderabad, Telangāna, India Systems Engineering Posted 3 months ago Senior Engineer – Multimodal ML…",
+      "snippet": "…pload your resume 580 jobs Sort: Distance Show map Turn on job alerts for this search Manage Senior Engineer/Lead - Layer 1 (PHY) Firmware Engineer – 5G NR gNodeB Hyderabad, Telangāna, India Systems Engineeri…",
       "first_seen": "2026-09-28T15:14:16Z"
-    },
-    "Summer": {
-      "snippet": "…iwan Hardware Engineering Posted 19 days ago RF/Analog Design/Mixed-Signal Engineering Internship – Summer 2027 San Diego, California, United States of America + 3 more Interim Engineering Intern - HW Poste…",
-      "first_seen": "2026-10-10T17:19:07Z"
     }
   }
 }
