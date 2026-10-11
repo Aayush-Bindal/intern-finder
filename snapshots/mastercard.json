@@ -1,13 +1,17 @@
 {
   "company": "Mastercard",
   "url": "https://careers.mastercard.com/",
-  "last_checked": "2026-10-10T21:25:22Z",
-  "text_length": 6168,
-  "text_sha1": "0f887281df244df187e2e38253a6dbb0e0a4ad68",
+  "last_checked": "2026-10-11T04:30:17Z",
+  "text_length": 6100,
+  "text_sha1": "2b2ee18446ce5a39235307f9cb851201afcb5610",
   "matches": {
     "Intern": {
       "snippet": "…atbot Sounds A quick heads up to let you know that when you use our AI-powered chat bot, Mastercard International Inc. and its affiliates and third-party suppliers process your personal information in conne…",
       "first_seen": "2026-09-28T15:24:28Z"
+    },
+    "Software Engineer": {
+      "snippet": "…View the government form and more information about this requirement. Be the First to Apply Senior Software Engineer Location O Fallon, United States of America, 63368-7263 Category Engineering Job ID R-282821 Take o…",
+      "first_seen": "2026-10-11T04:30:16Z"
     }
   }
 }
