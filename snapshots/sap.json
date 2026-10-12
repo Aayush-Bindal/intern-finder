@@ -1,10 +1,14 @@
 {
   "company": "SAP",
   "url": "https://www.sap.com/india/careers.html",
-  "last_checked": "2026-10-11T21:42:47Z",
-  "text_length": 5863,
-  "text_sha1": "54d9623e60434801368c0000a7d8c1b1c5a82c3a",
+  "last_checked": "2026-10-12T04:44:14Z",
+  "text_length": 5994,
+  "text_sha1": "d1e76fdac86924b2a26ec8ded0ed1fd80f9cbbe4",
   "matches": {
+    "2028 Graduates": {
+      "snippet": "…Browse our latest openings SAP Student Training & Rotation Program(VT/STAR) Intern (IT Services) - 2028 Graduates Teams: Information Technology Locations: Shanghai, China Display Date: Today Work Pattern On-Site -…",
+      "first_seen": "2026-10-12T04:44:13Z"
+    },
     "Internship": {
       "snippet": "…. Here, you can be yourself and do your best work. WHERE DO YOU FIT? Find your path at SAP Students Internships, student roles, and placement opportunities that offer real-world experience alongside your studie…",
       "first_seen": "2026-09-28T15:21:37Z"

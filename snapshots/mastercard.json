@@ -1,17 +1,13 @@
 {
   "company": "Mastercard",
   "url": "https://careers.mastercard.com/",
-  "last_checked": "2026-10-11T21:45:43Z",
-  "text_length": 6100,
-  "text_sha1": "4388b5ac7d05ff403e5c50be57be91a792e6014d",
+  "last_checked": "2026-10-12T04:46:54Z",
+  "text_length": 6227,
+  "text_sha1": "c4763887e9963d22589e30df2d10dfdf2fea683a",
   "matches": {
     "Intern": {
-      "snippet": "…atbot Sounds A quick heads up to let you know that when you use our AI-powered chat bot, Mastercard International Inc. and its affiliates and third-party suppliers process your personal information in conne…",
+      "snippet": "…eering Job ID R-287501 Senior Platform Architect-1 plays a pivotal role in designing and delivering internet infrastructure solutions that meet Mastercard’s security, scalability, and availability standards…",
       "first_seen": "2026-09-28T15:24:28Z"
-    },
-    "Software Engineer": {
-      "snippet": "…View the government form and more information about this requirement. Be the First to Apply Senior Software Engineer Location O Fallon, United States of America, 63368-7263 Category Engineering Job ID R-282821 Take o…",
-      "first_seen": "2026-10-11T04:30:16Z"
     }
   }
 }
