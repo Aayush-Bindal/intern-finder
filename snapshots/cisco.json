@@ -1,16 +1,16 @@
 {
   "company": "Cisco",
   "url": "https://careers.cisco.com/india/etr-jobs",
-  "last_checked": "2026-10-12T04:43:28Z",
-  "text_length": 10505,
-  "text_sha1": "5b1a7cce2516cf2dd965cdca867f2987db75632a",
+  "last_checked": "2026-10-12T14:42:15Z",
+  "text_length": 10544,
+  "text_sha1": "8eb7cf19a6b71a690e015f827b4fdd8f408c710a",
   "matches": {
     "Intern": {
       "snippet": "…(0) Global Login - Build what's next Turn your curiosity into capability. Whether you're exploring internships, apprenticeships, or early careers, get hands-on experience, guidance from inspiring leaders,…",
       "first_seen": "2026-09-28T15:20:51Z"
     },
     "Graduate": {
-      "snippet": "…evelopment, and deployment of microservices for Cisco Umbrella and Secure Access. Ideal for a fresh graduate with a strong foundation in computer science and cloud technologies. Apply Now Software Engineer Lo…",
+      "snippet": "…evelopment, and deployment of microservices for Cisco Umbrella and Secure Access. Ideal for a fresh graduate with a strong foundation in computer science and cloud technologies. Apply Now Data Engineer Locati…",
       "first_seen": "2026-10-09T04:57:16Z"
     },
     "Software Engineer": {
