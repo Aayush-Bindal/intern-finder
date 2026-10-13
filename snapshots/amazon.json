@@ -1,12 +1,12 @@
 {
   "company": "Amazon",
   "url": "https://www.amazon.jobs/en/search?loc_query=India",
-  "last_checked": "2026-10-13T00:13:08Z",
-  "text_length": 46986,
-  "text_sha1": "aa7184fb10ba99c4fe31fd35867d8e8b7e367c5e",
+  "last_checked": "2026-10-13T13:40:06Z",
+  "text_length": 47278,
+  "text_sha1": "a0cb25d1bcdce08761589fe3d1b40e1590e1b2c8",
   "matches": {
     "Summer": {
-      "snippet": "…n Marcos(6) 6 jobs Schortens(6) 6 jobs Shakopee(6) 6 jobs Sioux Falls(6) 6 jobs Sosnowiec(6) 6 jobs Summerville(6) 6 jobs Sumner(6) 6 jobs Texarkana(6) 6 jobs Troutdale(6) 6 jobs Weston(6) 6 jobs Witten(6)…",
+      "snippet": "…ortens(6) 6 jobs Shakopee(6) 6 jobs Sioux Falls(6) 6 jobs Sosnowiec(6) 6 jobs Spilamberto(6) 6 jobs Summerville(6) 6 jobs Sumner(6) 6 jobs Texarkana(6) 6 jobs Weston(6) 6 jobs Witten(6) 6 jobs Zapopan(6) 6…",
       "first_seen": "2026-09-28T15:12:58Z"
     }
   }
