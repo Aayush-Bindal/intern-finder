@@ -1,13 +1,17 @@
 {
   "company": "Mastercard",
   "url": "https://careers.mastercard.com/",
-  "last_checked": "2026-10-12T14:45:54Z",
-  "text_length": 6227,
-  "text_sha1": "9ed644e32e924062b8b88192a5868a6da37b14ff",
+  "last_checked": "2026-10-13T00:23:58Z",
+  "text_length": 6151,
+  "text_sha1": "ce4226bf124898230d07e3ba0450b5622ca34fe2",
   "matches": {
     "Intern": {
-      "snippet": "…eering Job ID R-287501 Senior Platform Architect-1 plays a pivotal role in designing and delivering internet infrastructure solutions that meet Mastercard’s security, scalability, and availability standards…",
+      "snippet": "…atbot Sounds A quick heads up to let you know that when you use our AI-powered chat bot, Mastercard International Inc. and its affiliates and third-party suppliers process your personal information in conne…",
       "first_seen": "2026-09-28T15:24:28Z"
+    },
+    "Software Engineer": {
+      "snippet": "…iew the government form and more information about this requirement. Be the First to Apply Manager, Software Engineering Location Dublin 18, Ireland, D18 X62W Category Engineering Job ID R-282690 We are expanding our…",
+      "first_seen": "2026-10-13T00:23:57Z"
     }
   }
 }

@@ -1,12 +1,12 @@
 {
   "company": "Google",
   "url": "https://www.google.com/about/careers/applications/jobs/results/?location=India",
-  "last_checked": "2026-10-12T14:35:45Z",
-  "text_length": 12790,
-  "text_sha1": "d38d1ebe69e68fdf6b560c56ef290ac9625f5a0f",
+  "last_checked": "2026-10-13T00:14:19Z",
+  "text_length": 12428,
+  "text_sha1": "f488feb78d0c4fcb9871386d3b6cd9369ac664fc",
   "matches": {
     "Bengaluru": {
-      "snippet": "…Jobs search results Senior Software Engineer, Tech Lead, Android Studio corporate_fare Google place Bengaluru, Karnataka, India bar_chart Mid Minimum qualifications Bachelor’s degree or equivalent practical ex…",
+      "snippet": "…anager, Engage, GCS Senior Software Engineer, Tech Lead, Android Studio corporate_fare Google place Bengaluru, Karnataka, India bar_chart Mid Minimum qualifications Bachelor’s degree or equivalent practical ex…",
       "first_seen": "2026-09-28T15:14:08Z"
     }
   }
