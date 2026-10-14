@@ -1,12 +1,16 @@
 {
   "company": "Amazon",
   "url": "https://www.amazon.jobs/en/search?loc_query=India",
-  "last_checked": "2026-10-14T11:19:18Z",
-  "text_length": 46368,
-  "text_sha1": "9b62531e42d674bd2ed26716763dca7120ba2056",
+  "last_checked": "2026-10-14T16:39:49Z",
+  "text_length": 45129,
+  "text_sha1": "714debacccf6acbf499821a4a554fc2516a40c12",
   "matches": {
+    "Summer 2027": {
+      "snippet": "…crosoft SharePoint Bachelor's degree or above ...Read more Communications Assistant Summer Intern – Summer 2027 Seattle, WA, USA | Job ID: 10578771 Posted October 14, 2026 (Updated 4 minutes ago) Basic qualifica…",
+      "first_seen": "2026-10-14T16:39:48Z"
+    },
     "Summer": {
-      "snippet": "…n Marcos(6) 6 jobs Santiago(6) 6 jobs Schortens(6) 6 jobs Sosnowiec(6) 6 jobs Spilamberto(6) 6 jobs Summerville(6) 6 jobs Sumner(6) 6 jobs Texarkana(6) 6 jobs Weston(6) 6 jobs Świebodzin(6) 6 jobs Aberdeen(…",
+      "snippet": "…n Marcos(6) 6 jobs Santiago(6) 6 jobs Schortens(6) 6 jobs Sosnowiec(6) 6 jobs Spilamberto(6) 6 jobs Summerville(6) 6 jobs Sumner(6) 6 jobs Texarkana(6) 6 jobs Valencia(6) 6 jobs Weston(6) 6 jobs Świebodzin(…",
       "first_seen": "2026-09-28T15:12:58Z"
     }
   }
