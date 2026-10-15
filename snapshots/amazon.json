@@ -1,12 +1,12 @@
 {
   "company": "Amazon",
   "url": "https://www.amazon.jobs/en/search?loc_query=India",
-  "last_checked": "2026-10-15T10:56:58Z",
-  "text_length": 45046,
-  "text_sha1": "7b5c7c65dfcf88d4a911467ac42eb11dfd14ea6c",
+  "last_checked": "2026-10-15T16:24:52Z",
+  "text_length": 45633,
+  "text_sha1": "d3b1d9c99a16ffed51429cb94b2961eb0720802c",
   "matches": {
     "Summer": {
-      "snippet": "…Rancho Cordova(7) 7 jobs Robbinsville(7) 7 jobs Rovigo(7) 7 jobs Ruskin(7) 7 jobs Spokane(7) 7 jobs Summerville(7) 7 jobs Sülzetal(7) 7 jobs Troutdale(7) 7 jobs Ulsan(7) 7 jobs Vasteras(7) 7 jobs Witten(7)…",
+      "snippet": "…obs Rovigo(7) 7 jobs Royal Oak(7) 7 jobs Ruskin(7) 7 jobs Spokane(7) 7 jobs Staten Island(7) 7 jobs Summerville(7) 7 jobs Sülzetal(7) 7 jobs Troutdale(7) 7 jobs Ulsan(7) 7 jobs Vasteras(7) 7 jobs West Deptf…",
       "first_seen": "2026-09-28T15:12:58Z"
     }
   }
