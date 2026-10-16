@@ -1,12 +1,12 @@
 {
   "company": "Amazon",
   "url": "https://www.amazon.jobs/en/search?loc_query=India",
-  "last_checked": "2026-10-16T10:49:06Z",
-  "text_length": 44393,
-  "text_sha1": "851851283203e371bf3fd2b82112a1cab6757437",
+  "last_checked": "2026-10-16T16:10:55Z",
+  "text_length": 44564,
+  "text_sha1": "311df81192259e3a01f5292bc09cad019956e55a",
   "matches": {
     "Summer": {
-      "snippet": "…Royal Oak(7) 7 jobs Ruskin(7) 7 jobs Salem(7) 7 jobs Springfield(7) 7 jobs Staten Island(7) 7 jobs Summerville(7) 7 jobs Sülzetal(7) 7 jobs Tokai-shi(7) 7 jobs Troutdale(7) 7 jobs Ulsan(7) 7 jobs Vasteras(…",
+      "snippet": "…uskin(7) 7 jobs Salem(7) 7 jobs Sioux Falls(7) 7 jobs Springfield(7) 7 jobs Staten Island(7) 7 jobs Summerville(7) 7 jobs Sülzetal(7) 7 jobs Tokai-shi(7) 7 jobs Troutdale(7) 7 jobs Ulsan(7) 7 jobs Vasteras(…",
       "first_seen": "2026-09-28T15:12:58Z"
     }
   }

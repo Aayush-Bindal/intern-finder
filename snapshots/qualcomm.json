@@ -1,12 +1,16 @@
 {
   "company": "Qualcomm",
   "url": "https://careers.qualcomm.com/careers/search?location=India",
-  "last_checked": "2026-10-16T10:50:27Z",
-  "text_length": 10948,
-  "text_sha1": "b9e9d2a7eff85c4c8627b0dbd41b581deb79ecfc",
+  "last_checked": "2026-10-16T16:12:33Z",
+  "text_length": 8344,
+  "text_sha1": "2f6f8d49ca094df0c04743756bc530bb782863a0",
   "matches": {
+    "Engineering Intern": {
+      "snippet": "…te Engineer_SW Hyderabad, Telangāna, India + 1 more Software Engineering Posted a month ago Interim Engineering Intern_2027_HW Bangalore, India + 1 more Interim Engineering Intern - HW Posted a month ago Senior RF Syst…",
+      "first_seen": "2026-10-16T16:12:32Z"
+    },
     "Engineer": {
-      "snippet": "…for this search Manage \"Java Backend\" and \"Cloud Platform\" Lead Bangalore, India + 1 more Software Engineering Posted 2 months ago NPU AI/Processor Synthesis Engineer- Sr Staff Bangalore, India + 1 more ASIC…",
+      "snippet": "…resume 601 jobs Sort: Distance Show map Turn on job alerts for this search Manage 2027 Campus Hire_Engineer_SW Hyderabad, Telangāna, India Software Engineering Posted a month ago 2027 Campus Hire_Associate E…",
       "first_seen": "2026-09-28T15:14:16Z"
     }
   }
