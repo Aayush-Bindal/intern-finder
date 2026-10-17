@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-10-17T10:27:15Z",
+  "last_run": "2026-10-17T15:16:54Z",
   "companies_checked": 95,
   "failures": [
     "Krutrim",
@@ -13,7 +13,6 @@
     "Dell Technologies",
     "Honeywell",
     "Schneider Electric",
-    "JPMorgan Chase",
     "Morgan Stanley"
   ],
   "emails_sent": 0
