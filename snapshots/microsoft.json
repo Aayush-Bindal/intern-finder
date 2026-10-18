@@ -1,8 +1,13 @@
 {
   "company": "Microsoft",
   "url": "https://jobs.careers.microsoft.com/global/en/search?lc=India",
-  "last_checked": "2026-10-18T03:16:50Z",
-  "text_length": 12506,
-  "text_sha1": "aafd8429ce51648387e72396e8369a0264a1bb4e",
-  "matches": {}
+  "last_checked": "2026-10-18T10:29:51Z",
+  "text_length": 8559,
+  "text_sha1": "cc0f90127a7dfcba571a51c39c98fb9fb7b2f0e8",
+  "matches": {
+    "Summer": {
+      "snippet": "…Statistics, Mathematics, Computer Science, or a related field, with an expected graduation date of Summer 2028 or later. 2+ years of hands-on experience in security research or threat hunting, with a speci…",
+      "first_seen": "2026-10-18T10:29:50Z"
+    }
+  }
 }
