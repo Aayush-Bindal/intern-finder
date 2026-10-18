@@ -1,17 +1,13 @@
 {
   "company": "Mastercard",
   "url": "https://careers.mastercard.com/",
-  "last_checked": "2026-10-17T20:23:20Z",
-  "text_length": 6033,
-  "text_sha1": "bb90ce370cc665dd44932cbdffbc665f6ee6728c",
+  "last_checked": "2026-10-18T03:27:52Z",
+  "text_length": 6217,
+  "text_sha1": "7de6566e4709bd9d7c02ca42a357228fa028a5b8",
   "matches": {
     "Intern": {
       "snippet": "…atbot Sounds A quick heads up to let you know that when you use our AI-powered chat bot, Mastercard International Inc. and its affiliates and third-party suppliers process your personal information in conne…",
       "first_seen": "2026-09-28T15:24:28Z"
-    },
-    "Software Engineer": {
-      "snippet": "…eal for candidates with strong accounting expertise and experience in global environments. Manager, Software Engineering Location Ramat-Gan, Israel, 5252212 Category Engineering Job ID R-279658 Become part of our team…",
-      "first_seen": "2026-10-16T03:34:13Z"
     }
   }
 }
