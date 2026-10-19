@@ -1,8 +1,13 @@
 {
   "company": "Dell Technologies",
   "url": "https://jobs.dell.com/en/india-students",
-  "last_checked": "2026-10-19T03:38:26Z",
-  "text_length": 229,
-  "text_sha1": "37b337ba733baf267b48c305a617c86e8ec65dd0",
-  "matches": {}
+  "last_checked": "2026-10-19T12:26:41Z",
+  "text_length": 5234,
+  "text_sha1": "62e3988b269c5b23b47f9fa08a7804deabf2b9bc",
+  "matches": {
+    "Internship": {
+      "snippet": "…e at Dell You and Dell Early in Career Our Opportunities Locations American English EARLY IN CAREER Internships At Dell Technologies, we have the boldest and most visionary minds. We are always looking for the…",
+      "first_seen": "2026-10-19T12:26:40Z"
+    }
+  }
 }
