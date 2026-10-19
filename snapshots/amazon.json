@@ -1,12 +1,12 @@
 {
   "company": "Amazon",
   "url": "https://www.amazon.jobs/en/search?loc_query=India",
-  "last_checked": "2026-10-18T20:10:50Z",
-  "text_length": 45653,
-  "text_sha1": "093bb81e8c9ed90d72607c0c2059f2f9d44227bb",
+  "last_checked": "2026-10-19T03:29:36Z",
+  "text_length": 44402,
+  "text_sha1": "d56157d3671f82c1c41dc484835470e66614210e",
   "matches": {
     "Summer": {
-      "snippet": "…retaro(9) 9 jobs Salinas(9) 9 jobs St Thomas(9) 9 jobs Stone Mountain(9) 9 jobs Stoughton(9) 9 jobs Summerville(9) 9 jobs Taguig City(9) 9 jobs Tilbury(9) 9 jobs Trenton(9) 9 jobs Tulsa(9) 9 jobs Washington…",
+      "snippet": "…enhall(9) 9 jobs Salinas(9) 9 jobs St Thomas(9) 9 jobs Stone Mountain(9) 9 jobs Stoughton(9) 9 jobs Summerville(9) 9 jobs Taguig City(9) 9 jobs Tilbury(9) 9 jobs Trenton(9) 9 jobs Tulsa(9) 9 jobs Washington…",
       "first_seen": "2026-09-28T15:12:58Z"
     }
   }
