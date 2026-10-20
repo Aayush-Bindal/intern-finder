@@ -1,10 +1,14 @@
 {
   "company": "Amazon",
   "url": "https://www.amazon.jobs/en/search?loc_query=India",
-  "last_checked": "2026-10-20T03:39:01Z",
-  "text_length": 45179,
-  "text_sha1": "46ac11e637467aa3dd2ba7614d4e398d38078c90",
+  "last_checked": "2026-10-20T10:59:54Z",
+  "text_length": 46057,
+  "text_sha1": "c5547cc64de411c1caf10563f1912a528cb5d261",
   "matches": {
+    "Internship 2027": {
+      "snippet": "…ield (Humanities focused), or a similar discipline ...Read more Data Center Infrastructure Engineer Internship 2027 - UAE nationals Dubai, ARE | Job ID: 10583818 Posted October 20, 2026 (Updated about 1 hour ago) Ba…",
+      "first_seen": "2026-10-20T10:59:54Z"
+    },
     "Summer": {
       "snippet": "…eiro(9) 9 jobs Royal Oak(9) 9 jobs St Thomas(9) 9 jobs Stone Mountain(9) 9 jobs Stoughton(9) 9 jobs Summerville(9) 9 jobs Taguig City(9) 9 jobs Tilbury(9) 9 jobs Trenton(9) 9 jobs Tulsa(9) 9 jobs Ulm(9) 9 j…",
       "first_seen": "2026-09-28T15:12:58Z"
