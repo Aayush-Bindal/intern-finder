@@ -1,12 +1,12 @@
 {
   "company": "Amazon",
   "url": "https://www.amazon.jobs/en/search?loc_query=India",
-  "last_checked": "2026-10-20T16:26:04Z",
-  "text_length": 45432,
-  "text_sha1": "b2e3d4911d2a766f3776683ed3367f9a903d54df",
+  "last_checked": "2026-10-20T21:19:11Z",
+  "text_length": 45535,
+  "text_sha1": "deac7afce3463fc1078809fc957602bc33fcff79",
   "matches": {
     "Summer": {
-      "snippet": "…eiro(9) 9 jobs Royal Oak(9) 9 jobs St Thomas(9) 9 jobs Stone Mountain(9) 9 jobs Stoughton(9) 9 jobs Summerville(9) 9 jobs Taguig City(9) 9 jobs Tilbury(9) 9 jobs Trenton(9) 9 jobs Tulsa(9) 9 jobs Ulm(9) 9 j…",
+      "snippet": "…bs Pontiac(8) 8 jobs Rheinberg(8) 8 jobs Robbinsville(8) 8 jobs Rossford(8) 8 jobs Rovigo(8) 8 jobs Summerville(8) 8 jobs Tolleson(8) 8 jobs Trenton(8) 8 jobs Union City(8) 8 jobs Varennes(8) 8 jobs Wakefie…",
       "first_seen": "2026-09-28T15:12:58Z"
     }
   }
