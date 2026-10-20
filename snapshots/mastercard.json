@@ -1,13 +1,17 @@
 {
   "company": "Mastercard",
   "url": "https://careers.mastercard.com/",
-  "last_checked": "2026-10-19T22:14:31Z",
-  "text_length": 6246,
-  "text_sha1": "f860bc8ffd8d0f49444fee54387c4663b0642383",
+  "last_checked": "2026-10-20T03:49:53Z",
+  "text_length": 6162,
+  "text_sha1": "6468789fdfe8df05862ba73fd75b211610805173",
   "matches": {
     "Intern": {
       "snippet": "…atbot Sounds A quick heads up to let you know that when you use our AI-powered chat bot, Mastercard International Inc. and its affiliates and third-party suppliers process your personal information in conne…",
       "first_seen": "2026-09-28T15:24:28Z"
+    },
+    "Software Engineer": {
+      "snippet": "…View the government form and more information about this requirement. Be the First to Apply Senior Software Engineer Location Dublin 18, Ireland Category Engineering Job ID R-280457 We are seeking a Senior Software E…",
+      "first_seen": "2026-10-20T03:49:52Z"
     }
   }
 }
