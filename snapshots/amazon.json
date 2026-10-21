@@ -1,14 +1,10 @@
 {
   "company": "Amazon",
   "url": "https://www.amazon.jobs/en/search?loc_query=India",
-  "last_checked": "2026-10-21T11:16:24Z",
-  "text_length": 44475,
-  "text_sha1": "177ce698a06b7d6194444c722ea7f6f524ed5b47",
+  "last_checked": "2026-10-21T16:42:48Z",
+  "text_length": 45307,
+  "text_sha1": "7337b5b497dc6218c5e906f9f89963d87645d75a",
   "matches": {
-    "Graduating in 2028": {
-      "snippet": "…osted July 27, 2026 (Updated about 1 hour ago) Basic qualifications: Currently in your penultimate (graduating in 2028) or last year, and working towards a university degree in Supply Chain, Business/Management, Engine…",
-      "first_seen": "2026-10-21T11:16:23Z"
-    },
     "Summer": {
       "snippet": "…nberg(8) 8 jobs Robbinsville(8) 8 jobs Rossford(8) 8 jobs Rovigo(8) 8 jobs Stone Mountain(8) 8 jobs Summerville(8) 8 jobs Tolleson(8) 8 jobs Union City(8) 8 jobs Varennes(8) 8 jobs Wakefield(8) 8 jobs Washi…",
       "first_seen": "2026-09-28T15:12:58Z"
