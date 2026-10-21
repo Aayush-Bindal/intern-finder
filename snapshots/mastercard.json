@@ -1,16 +1,16 @@
 {
   "company": "Mastercard",
   "url": "https://careers.mastercard.com/",
-  "last_checked": "2026-10-20T21:31:12Z",
-  "text_length": 6162,
-  "text_sha1": "4d67152d8e5831de2f91b6ae974e102e3f6ffbf6",
+  "last_checked": "2026-10-21T03:42:36Z",
+  "text_length": 6166,
+  "text_sha1": "a0b50a3fd8bae657c01a0ac9617d102c6ef5295d",
   "matches": {
     "Intern": {
-      "snippet": "…atbot Sounds A quick heads up to let you know that when you use our AI-powered chat bot, Mastercard International Inc. and its affiliates and third-party suppliers process your personal information in conne…",
+      "snippet": "…nhancing core technology. Oversee platform operations, ensure data governance, and collaborate with internal and external partners. Ideal for experienced leaders with strong technical and communication skil…",
       "first_seen": "2026-09-28T15:24:28Z"
     },
     "Software Engineer": {
-      "snippet": "…View the government form and more information about this requirement. Be the First to Apply Senior Software Engineer Location Dublin 18, Ireland Category Engineering Job ID R-280457 We are seeking a Senior Software E…",
+      "snippet": "…l. View the government form and more information about this requirement. Be the First to Apply Lead Software Engineer(Recorded Future) Location O Fallon, United States of America, 63368-7263 Category Engineering Job I…",
       "first_seen": "2026-10-20T03:49:52Z"
     }
   }
