@@ -1,17 +1,13 @@
 {
   "company": "Mastercard",
   "url": "https://careers.mastercard.com/",
-  "last_checked": "2026-10-21T21:30:08Z",
-  "text_length": 6166,
-  "text_sha1": "42838e96912069c42701aa5a353bfc6631572165",
+  "last_checked": "2026-10-22T03:42:39Z",
+  "text_length": 6083,
+  "text_sha1": "ca753f50c970b1582280711c383a9a927556c880",
   "matches": {
     "Intern": {
-      "snippet": "…nhancing core technology. Oversee platform operations, ensure data governance, and collaborate with internal and external partners. Ideal for experienced leaders with strong technical and communication skil…",
+      "snippet": "…ope. You will help identify opportunities, develop customer value propositions, and coordinate with internal teams. Ideal for candidates with a commercial mindset and experience in sales support or payments…",
       "first_seen": "2026-09-28T15:24:28Z"
-    },
-    "Software Engineer": {
-      "snippet": "…l. View the government form and more information about this requirement. Be the First to Apply Lead Software Engineer(Recorded Future) Location O Fallon, United States of America, 63368-7263 Category Engineering Job I…",
-      "first_seen": "2026-10-20T03:49:52Z"
     }
   }
 }
