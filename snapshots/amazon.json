@@ -1,12 +1,12 @@
 {
   "company": "Amazon",
   "url": "https://www.amazon.jobs/en/search?loc_query=India",
-  "last_checked": "2026-10-22T03:31:38Z",
-  "text_length": 44939,
-  "text_sha1": "5a218d045a65956c3fc53195f9a7e860e3260de3",
+  "last_checked": "2026-10-22T11:22:51Z",
+  "text_length": 46202,
+  "text_sha1": "9242787d1ce78766a523f92d54f4051f334fd139",
   "matches": {
     "Summer": {
-      "snippet": "…nberg(8) 8 jobs Robbinsville(8) 8 jobs Rossford(8) 8 jobs Rovigo(8) 8 jobs Stone Mountain(8) 8 jobs Summerville(8) 8 jobs Tolleson(8) 8 jobs Varennes(8) 8 jobs Wakefield(8) 8 jobs Washington(8) 8 jobs White…",
+      "snippet": "…s Salem(7) 7 jobs San Leandro(7) 7 jobs Spokane(7) 7 jobs Springfield(7) 7 jobs St Peters(7) 7 jobs Summerville(7) 7 jobs Sülzetal(7) 7 jobs Ulsan(7) 7 jobs Union City(7) 7 jobs Vacaville(7) 7 jobs Wakefiel…",
       "first_seen": "2026-09-28T15:12:58Z"
     }
   }

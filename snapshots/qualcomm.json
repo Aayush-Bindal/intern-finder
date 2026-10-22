@@ -1,25 +1,13 @@
 {
   "company": "Qualcomm",
   "url": "https://careers.qualcomm.com/careers/search?location=India",
-  "last_checked": "2026-10-22T03:32:58Z",
-  "text_length": 9229,
-  "text_sha1": "1ed053305e417b69c56173d02f4b8806e5131424",
+  "last_checked": "2026-10-22T11:24:16Z",
+  "text_length": 8905,
+  "text_sha1": "d4b2fb8d78756aba21a930b1685fcd47fcf7b1ee",
   "matches": {
-    "Summer 2027": {
-      "snippet": "…ates of America IT Engineering Posted 8 days ago IT Infrastructure & Cloud Engineering Internship – Summer 2027 San Diego, California, United States of America Interim Intern Posted a month ago Infrastructure En…",
-      "first_seen": "2026-10-22T03:32:55Z"
-    },
-    "Engineering Intern": {
-      "snippet": "…go, California, United States of America IT Engineering Posted 8 days ago IT Infrastructure & Cloud Engineering Internship – Summer 2027 San Diego, California, United States of America Interim Intern Posted a month ago…",
-      "first_seen": "2026-10-22T03:32:55Z"
-    },
     "Engineer": {
-      "snippet": "…Upload your resume 555 jobs Sort: Distance Show map Turn on job alerts for this search Manage Staff Engineer IT (Cloud Platform Engineering) Hyderabad, Telangāna, India IT Engineering Posted 8 days ago Staff…",
+      "snippet": "…esume 557 jobs Sort: Distance Show map Turn on job alerts for this search Manage Senior Lead/Senior Engineer/Engineer - Camera Systems (ISP) Hyderabad, Telangāna, India Systems Engineering Posted 3 months ago…",
       "first_seen": "2026-09-28T15:14:16Z"
-    },
-    "Summer": {
-      "snippet": "…ates of America IT Engineering Posted 8 days ago IT Infrastructure & Cloud Engineering Internship – Summer 2027 San Diego, California, United States of America Interim Intern Posted a month ago Infrastructu…",
-      "first_seen": "2026-10-22T03:32:55Z"
     }
   }
 }
