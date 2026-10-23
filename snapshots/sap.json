@@ -1,10 +1,14 @@
 {
   "company": "SAP",
   "url": "https://www.sap.com/india/careers.html",
-  "last_checked": "2026-10-23T03:44:47Z",
-  "text_length": 5909,
-  "text_sha1": "70bd3f69a7c2ebb9fe73eca56c4ddeed90721cb3",
+  "last_checked": "2026-10-23T11:15:18Z",
+  "text_length": 5944,
+  "text_sha1": "8efeea2601aae656d4e25e38ee658c9119b6ab7b",
   "matches": {
+    "2028 Graduates": {
+      "snippet": "…act Type Full-time SAP Student Training & Rotation Program(VT/STAR) Intern (Application Engineer) - 2028 Graduates Teams: Engineering Locations: Chengdu, China Display Date: Today Work Pattern On-Site - Contract Ty…",
+      "first_seen": "2026-10-23T11:15:17Z"
+    },
     "Internship": {
       "snippet": "…. Here, you can be yourself and do your best work. WHERE DO YOU FIT? Find your path at SAP Students Internships, student roles, and placement opportunities that offer real-world experience alongside your studie…",
       "first_seen": "2026-09-28T15:21:37Z"
