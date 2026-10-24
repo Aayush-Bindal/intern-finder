@@ -1,12 +1,16 @@
 {
   "company": "Qualcomm",
   "url": "https://careers.qualcomm.com/careers/search?location=India",
-  "last_checked": "2026-10-24T10:24:27Z",
-  "text_length": 10273,
-  "text_sha1": "e4f892673dc826357ac45e39be42200243007894",
+  "last_checked": "2026-10-24T15:29:48Z",
+  "text_length": 8983,
+  "text_sha1": "e9da2895b86e5349b98e972ccbe27c393afa45bd",
   "matches": {
+    "Engineering Intern": {
+      "snippet": "…e Engineer_SW Hyderabad, Telangāna, India + 1 more Software Engineering Posted 2 months ago Interim Engineering Intern_2027_HW Bangalore, India + 1 more Interim Engineering Intern - HW Posted 2 months ago Page 1 of 57…",
+      "first_seen": "2026-10-24T15:29:47Z"
+    },
     "Engineer": {
-      "snippet": "…sume 564 jobs Sort: Distance Show map Turn on job alerts for this search Manage CPU Physical Design Engineer, Staff Hyderabad, Telangāna, India Hardware Engineering Posted 2 months ago Sr Lead or Staff Engine…",
+      "snippet": "…pload your resume 564 jobs Sort: Distance Show map Turn on job alerts for this search Manage Senior Engineer/Lead - Layer 1 (PHY) Firmware Engineer – 5G NR gNodeB Hyderabad, Telangāna, India Systems Engineeri…",
       "first_seen": "2026-09-28T15:14:16Z"
     }
   }
