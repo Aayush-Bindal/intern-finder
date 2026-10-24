@@ -1,12 +1,12 @@
 {
   "company": "Amazon",
   "url": "https://www.amazon.jobs/en/search?loc_query=India",
-  "last_checked": "2026-10-23T21:03:42Z",
-  "text_length": 45811,
-  "text_sha1": "85a4502ed4e3dc7f50c3682b43c0c52c67af5793",
+  "last_checked": "2026-10-24T03:30:19Z",
+  "text_length": 46309,
+  "text_sha1": "0cf1573825d7755587b420acae45348999ed2e1f",
   "matches": {
     "Summer": {
-      "snippet": "…n Leandro(7) 7 jobs Sosnowiec(7) 7 jobs Spokane(7) 7 jobs Springfield(7) 7 jobs St Peters(7) 7 jobs Summerville(7) 7 jobs Sülzetal(7) 7 jobs Ulsan(7) 7 jobs Union City(7) 7 jobs Vacaville(7) 7 jobs Wakefiel…",
+      "snippet": "…de Janeiro(6) 6 jobs Rockville(6) 6 jobs Rovigo(6) 6 jobs San Marcos(6) 6 jobs Sayama-shi(6) 6 jobs Summerville(6) 6 jobs Sumner(6) 6 jobs Temple Terrace(6) 6 jobs Tokai-shi(6) 6 jobs Tremont(6) 6 jobs Trie…",
       "first_seen": "2026-09-28T15:12:58Z"
     }
   }
