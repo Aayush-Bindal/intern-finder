@@ -1,17 +1,13 @@
 {
   "company": "Mastercard",
   "url": "https://careers.mastercard.com/",
-  "last_checked": "2026-10-24T20:30:07Z",
-  "text_length": 6132,
-  "text_sha1": "2fdb9462bfc5918b1470409c8a271727a03495d7",
+  "last_checked": "2026-10-25T03:37:36Z",
+  "text_length": 6233,
+  "text_sha1": "e0d58d78ce944f112fb70e16f24087ad8a90a3ff",
   "matches": {
     "Intern": {
       "snippet": "…atbot Sounds A quick heads up to let you know that when you use our AI-powered chat bot, Mastercard International Inc. and its affiliates and third-party suppliers process your personal information in conne…",
       "first_seen": "2026-09-28T15:24:28Z"
-    },
-    "Software Engineer": {
-      "snippet": "…strong Python/backend engineering expertise and proven leadership in AI and GenAI deployment. Lead Software Engineer Location Pune, India, 411006 Category Engineering Job ID R-289394 Become part of our team as a Lead…",
-      "first_seen": "2026-10-23T03:47:31Z"
     }
   }
 }
