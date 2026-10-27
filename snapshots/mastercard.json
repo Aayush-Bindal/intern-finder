@@ -1,16 +1,16 @@
 {
   "company": "Mastercard",
   "url": "https://careers.mastercard.com/",
-  "last_checked": "2026-10-27T17:44:45Z",
-  "text_length": 6104,
-  "text_sha1": "1cd622f6c3cf87c8edae003995eea58e1382d027",
+  "last_checked": "2026-10-27T22:04:00Z",
+  "text_length": 5989,
+  "text_sha1": "c13c5b12fe00440827af74edf322ceee192a1ff3",
   "matches": {
     "Intern": {
       "snippet": "…atbot Sounds A quick heads up to let you know that when you use our AI-powered chat bot, Mastercard International Inc. and its affiliates and third-party suppliers process your personal information in conne…",
       "first_seen": "2026-09-28T15:24:28Z"
     },
     "Software Engineer": {
-      "snippet": "…View the government form and more information about this requirement. Be the First to Apply Senior Software Engineer Location O Fallon, United States of America, 63368-7263 Category Engineering Job ID R-282821 Take o…",
+      "snippet": "…for experienced professionals with strong DevOps expertise and a passion for problem-solving. Lead Software Engineer Location Pune, India, 411006 Category Engineering Job ID R-280781 Take on the role of Lead Software…",
       "first_seen": "2026-10-27T04:05:49Z"
     }
   }
