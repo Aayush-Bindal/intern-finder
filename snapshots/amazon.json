@@ -1,12 +1,12 @@
 {
   "company": "Amazon",
   "url": "https://www.amazon.jobs/en/search?loc_query=India",
-  "last_checked": "2026-10-26T22:21:13Z",
-  "text_length": 44615,
-  "text_sha1": "dc04a14ce61be1bd9d7ac8bd9c30f8d3412d6a56",
+  "last_checked": "2026-10-27T03:55:15Z",
+  "text_length": 43974,
+  "text_sha1": "b496fa6c8708349684c99e66b78cdd7ad3f34709",
   "matches": {
     "Summer": {
-      "snippet": "…Rovigo(6) 6 jobs San Leandro(6) 6 jobs San Marcos(6) 6 jobs Sayama-shi(6) 6 jobs Spokane(6) 6 jobs Summerville(6) 6 jobs Sumner(6) 6 jobs Temple Terrace(6) 6 jobs Tokai-shi(6) 6 jobs Tremont(6) 6 jobs Vaca…",
+      "snippet": "…San Leandro(6) 6 jobs San Marcos(6) 6 jobs Sayama-shi(6) 6 jobs Seffner(6) 6 jobs Spokane(6) 6 jobs Summerville(6) 6 jobs Sumner(6) 6 jobs Temple Terrace(6) 6 jobs Tokai-shi(6) 6 jobs Tremont(6) 6 jobs Vaca…",
       "first_seen": "2026-09-28T15:12:58Z"
     }
   }
