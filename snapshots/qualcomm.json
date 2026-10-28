@@ -1,16 +1,12 @@
 {
   "company": "Qualcomm",
   "url": "https://careers.qualcomm.com/careers/search?location=India",
-  "last_checked": "2026-10-28T12:14:51Z",
-  "text_length": 11202,
-  "text_sha1": "4ec9fca808b787700cc636a1fddf125848c7e83a",
+  "last_checked": "2026-10-28T22:17:07Z",
+  "text_length": 8829,
+  "text_sha1": "5d1e49adf4dd9d2c8ec65bf0be1505b1880bae8e",
   "matches": {
-    "Engineering Intern": {
-      "snippet": "…e Engineer_SW Hyderabad, Telangāna, India + 1 more Software Engineering Posted 2 months ago Interim Engineering Intern_2027_HW Bangalore, India + 1 more Interim Engineering Intern - HW Posted 2 months ago Interim Engin…",
-      "first_seen": "2026-10-28T12:14:50Z"
-    },
     "Engineer": {
-      "snippet": "…U Power Management Firmware Developer - Performance Management Hyderabad, Telangāna, India Software Engineering Posted a year ago NPU Design implementation (Synthesis) Principal/Manager Bangalore, India + 1 m…",
+      "snippet": "…ts for this search Manage RTL Design (NOC/Interconnect) -Staff Hyderabad, Telangāna, India Hardware Engineering Posted 4 months ago Senior Engineer- Power Architecture and Systems Engineer Hyderabad, Telangān…",
       "first_seen": "2026-09-28T15:14:16Z"
     }
   }
