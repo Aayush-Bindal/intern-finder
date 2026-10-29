@@ -1,12 +1,12 @@
 {
   "company": "Google",
   "url": "https://www.google.com/about/careers/applications/jobs/results/?location=India",
-  "last_checked": "2026-10-29T04:38:57Z",
-  "text_length": 13409,
-  "text_sha1": "057aab6c2129a500a21b888ca7df691c32856edc",
+  "last_checked": "2026-10-29T12:24:44Z",
+  "text_length": 13175,
+  "text_sha1": "81205916d31019736ead837ab92c444001fed327",
   "matches": {
     "Bengaluru": {
-      "snippet": "…d_more Jobs search results Staff Software Engineer, Search Intelligence corporate_fare Google place Bengaluru, Karnataka, India bar_chart Advanced Minimum qualifications Bachelor's degree or equivalent practic…",
+      "snippet": "…count Manager, Engage, GCS Staff Software Engineer, Search Intelligence corporate_fare Google place Bengaluru, Karnataka, India bar_chart Advanced Minimum qualifications Bachelor's degree or equivalent practic…",
       "first_seen": "2026-09-28T15:14:08Z"
     }
   }
