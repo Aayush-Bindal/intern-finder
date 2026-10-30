@@ -1,12 +1,12 @@
 {
   "company": "Amazon",
   "url": "https://www.amazon.jobs/en/search?loc_query=India",
-  "last_checked": "2026-10-29T22:29:24Z",
-  "text_length": 44943,
-  "text_sha1": "4ed9b2952368f1f2509634d316a5dce20638728b",
+  "last_checked": "2026-10-30T04:37:31Z",
+  "text_length": 45368,
+  "text_sha1": "203bdaa4c0f604a12c2a787378bfc65b377d1845",
   "matches": {
     "Summer": {
-      "snippet": "…Sidney(5) 5 jobs Siero(5) 5 jobs Simi Valley(5) 5 jobs Sindelfingen(5) 5 jobs Sioux Falls(5) 5 jobs Summerville(5) 5 jobs Szczecin(5) 5 jobs São João de Meriti(5) 5 jobs Temple Terrace(5) 5 jobs Trierweiler…",
+      "snippet": "…Sidney(5) 5 jobs Siero(5) 5 jobs Simi Valley(5) 5 jobs Sindelfingen(5) 5 jobs Sioux Falls(5) 5 jobs Summerville(5) 5 jobs Szczecin(5) 5 jobs São João de Meriti(5) 5 jobs Trierweiler(5) 5 jobs Troisdorf(5) 5…",
       "first_seen": "2026-09-28T15:12:58Z"
     }
   }
