@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-10-30T22:12:28Z",
+  "last_run": "2026-10-31T04:34:26Z",
   "companies_checked": 95,
   "failures": [
     "Krutrim",
@@ -14,5 +14,5 @@
     "Schneider Electric",
     "Morgan Stanley"
   ],
-  "emails_sent": 1
+  "emails_sent": 0
 }
