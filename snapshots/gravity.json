@@ -1,24 +1,20 @@
 {
   "company": "Gravity",
   "url": "https://careers.gravity.fast/",
-  "last_checked": "2026-10-31T04:34:00Z",
-  "text_length": 1901,
-  "text_sha1": "767005a88ca32876301905fd542a24742162f036",
+  "last_checked": "2026-10-31T11:59:29Z",
+  "text_length": 1893,
+  "text_sha1": "9eb443eb6335dc1cecb12f10a40003c7fb0f3781",
   "matches": {
     "AI Intern": {
-      "snippet": "…Filters All departments AI Engineering Design All locations Bengaluru or Work From Home (remote) AI AI Intern Bengaluru or Work From Home (remote), India Remote Other Engineering Full Stack Developer Bengaluru…",
-      "first_seen": "2026-09-28T15:26:39Z"
-    },
-    "Product Design Intern": {
-      "snippet": "…ngineering Full Stack Developer Bengaluru or Work From Home (remote), India Remote Full-time Design Product Design Intern Bengaluru or Work From Home (remote), India Remote Other POWERED BY",
+      "snippet": "…me (remote) AI Agentic Product Builder Bengaluru or Work From Home (remote), India Remote Full-time AI Intern Bengaluru or Work From Home (remote), India Remote Other Engineering Full Stack Developer Bengaluru…",
       "first_seen": "2026-09-28T15:26:39Z"
     },
     "Intern": {
-      "snippet": "…ters All departments AI Engineering Design All locations Bengaluru or Work From Home (remote) AI AI Intern Bengaluru or Work From Home (remote), India Remote Other Engineering Full Stack Developer Bengaluru…",
+      "snippet": "…(remote) AI Agentic Product Builder Bengaluru or Work From Home (remote), India Remote Full-time AI Intern Bengaluru or Work From Home (remote), India Remote Other Engineering Full Stack Developer Bengaluru…",
       "first_seen": "2026-09-28T15:26:39Z"
     },
     "Full-time": {
-      "snippet": "…ia Remote Other Engineering Full Stack Developer Bengaluru or Work From Home (remote), India Remote Full-time Design Product Design Intern Bengaluru or Work From Home (remote), India Remote Other POWERED BY",
+      "snippet": "…rk From Home (remote) AI Agentic Product Builder Bengaluru or Work From Home (remote), India Remote Full-time AI Intern Bengaluru or Work From Home (remote), India Remote Other Engineering Full Stack Developer…",
       "first_seen": "2026-09-28T15:26:39Z"
     }
   }
