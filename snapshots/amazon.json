@@ -1,18 +1,10 @@
 {
   "company": "Amazon",
   "url": "https://www.amazon.jobs/en/search?loc_query=India",
-  "last_checked": "2026-11-01T12:45:47Z",
-  "text_length": 45214,
-  "text_sha1": "fc21ebb9d3f7964bbc023657664f643ad44afaa7",
+  "last_checked": "2026-11-01T21:45:33Z",
+  "text_length": 48447,
+  "text_sha1": "3be882bffb65b0d96b6006463c21b95df5abc22f",
   "matches": {
-    "2027 Internship": {
-      "snippet": "…ty (98%+) targets within defined time windows. ...Read more (Physical) Security Specialist Intern - 2027 Internship Frankfurt, HE, DEU | Job ID: 10573267 Posted October 8, 2026 (Updated about 5 hours ago) Basic qual…",
-      "first_seen": "2026-11-01T12:45:45Z"
-    },
-    "2027 Intern": {
-      "snippet": "…ty (98%+) targets within defined time windows. ...Read more (Physical) Security Specialist Intern - 2027 Internship Frankfurt, HE, DEU | Job ID: 10573267 Posted October 8, 2026 (Updated about 5 hours ago) Basic…",
-      "first_seen": "2026-11-01T12:45:45Z"
-    },
     "Summer": {
       "snippet": "…Sidney(5) 5 jobs Siero(5) 5 jobs Simi Valley(5) 5 jobs Sindelfingen(5) 5 jobs Sioux Falls(5) 5 jobs Summerville(5) 5 jobs Szczecin(5) 5 jobs Temple Terrace(5) 5 jobs Tolleson(5) 5 jobs Trierweiler(5) 5 jobs…",
       "first_seen": "2026-09-28T15:12:58Z"
