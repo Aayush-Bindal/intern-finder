@@ -1,12 +1,12 @@
 {
   "company": "Amazon",
   "url": "https://www.amazon.jobs/en/search?loc_query=India",
-  "last_checked": "2026-11-05T14:05:12Z",
-  "text_length": 46165,
-  "text_sha1": "7306f2a01fcba2af04b9add97f0b90d31e00d9f7",
+  "last_checked": "2026-11-05T23:19:26Z",
+  "text_length": 46944,
+  "text_sha1": "2b6dd6d904a53e739b62e8904010a8c20df2031e",
   "matches": {
     "Summer": {
-      "snippet": "…(5) 5 jobs Sevrey(5) 5 jobs Sidney(5) 5 jobs Siero(5) 5 jobs Sindelfingen(5) 5 jobs Solon(5) 5 jobs Summerville(5) 5 jobs Temple Terrace(5) 5 jobs The Hague(5) 5 jobs Tolleson(5) 5 jobs Trierweiler(5) 5 job…",
+      "snippet": "…(5) 5 jobs Sevrey(5) 5 jobs Sidney(5) 5 jobs Siero(5) 5 jobs Sindelfingen(5) 5 jobs Solon(5) 5 jobs Summerville(5) 5 jobs Temple Terrace(5) 5 jobs The Hague(5) 5 jobs Tolleson(5) 5 jobs Toluca(5) 5 jobs Tri…",
       "first_seen": "2026-09-28T15:12:58Z"
     }
   }
