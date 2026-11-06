@@ -1,12 +1,16 @@
 {
   "company": "Applied Materials",
   "url": "https://careers.appliedmaterials.com/",
-  "last_checked": "2026-11-05T23:29:44Z",
-  "text_length": 9513,
-  "text_sha1": "baf9160a6871bcea455e80780cb7c0c5f3bbd01b",
+  "last_checked": "2026-11-06T05:33:47Z",
+  "text_length": 9474,
+  "text_sha1": "d824b9c5f477b0e391430bdbe97e93433fbc2595",
   "matches": {
+    "New Graduate": {
+      "snippet": "…r Engineer II Yokkaichi,JPN Customer Service & Support Posted 6 hours ago Sales Operations-Shanghai-New Graduate Shanghai,CHN Sales Posted 6 hours ago Page 1 of 214 1 of 214 Company Priority Shift Supervisor (M2)…",
+      "first_seen": "2026-11-06T05:33:46Z"
+    },
     "Intern": {
-      "snippet": "…sinchu,TWN Customer Service & Support Company Priority Posted 7 months ago Metrology Engineer Co-op/Intern - Undergraduate (Winter/Spring 2027) Tempe,AZ Interns Posted a day ago Customer Engineer - Kiryat G…",
+      "snippet": "…and handling sensitive situations. Collaborates effectively with customers, vendors, suppliers, and internal stakeholders. Minimum Qualifications Completion of Associate's Degree Preferred Qualifications Ba…",
       "first_seen": "2026-09-28T15:23:34Z"
     }
   }
