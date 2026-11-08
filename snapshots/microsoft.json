@@ -1,8 +1,13 @@
 {
   "company": "Microsoft",
   "url": "https://jobs.careers.microsoft.com/global/en/search?lc=India",
-  "last_checked": "2026-11-08T04:43:39Z",
-  "text_length": 11319,
-  "text_sha1": "2ac5eb6085ba8ae9d2489ddb7076de0e36a1cb37",
-  "matches": {}
+  "last_checked": "2026-11-08T12:51:01Z",
+  "text_length": 7774,
+  "text_sha1": "4ea87faa335bc339cd0cf60cc30c1b8540fafcb1",
+  "matches": {
+    "Software Engineer Intern": {
+      "snippet": "…your career journey Upload resume 2341 jobs Sort: Latest Turn on job alerts for this search Manage Software Engineer Internship Opportunities Ireland, Dublin, Dublin Posted an hour ago AI Optimization SW Engineer II and Sen…",
+      "first_seen": "2026-11-08T12:51:00Z"
+    }
+  }
 }
