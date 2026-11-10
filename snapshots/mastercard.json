@@ -1,13 +1,17 @@
 {
   "company": "Mastercard",
   "url": "https://careers.mastercard.com/",
-  "last_checked": "2026-11-10T01:24:58Z",
-  "text_length": 6201,
-  "text_sha1": "37f790f97e929be716476dd36e1eaff83ca71e98",
+  "last_checked": "2026-11-10T14:37:25Z",
+  "text_length": 6163,
+  "text_sha1": "7e0033e0349214a909ed373f22061307352f0b77",
   "matches": {
     "Intern": {
       "snippet": "…atbot Sounds A quick heads up to let you know that when you use our AI-powered chat bot, Mastercard International Inc. and its affiliates and third-party suppliers process your personal information in conne…",
       "first_seen": "2026-09-28T15:24:28Z"
+    },
+    "Software Engineer": {
+      "snippet": "…andidates have strong product development instincts and experience in the payments industry. Senior Software Engineer Location Mexico City, Mexico, 3810 Category Engineering Job ID R-281205 We are looking for a Senior…",
+      "first_seen": "2026-11-10T14:37:25Z"
     }
   }
 }
