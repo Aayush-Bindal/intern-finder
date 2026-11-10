@@ -1,17 +1,13 @@
 {
   "company": "Mastercard",
   "url": "https://careers.mastercard.com/",
-  "last_checked": "2026-11-09T15:32:50Z",
-  "text_length": 6188,
-  "text_sha1": "6074878815624c05266e9753e1f91e3ec113979c",
+  "last_checked": "2026-11-10T01:24:58Z",
+  "text_length": 6201,
+  "text_sha1": "37f790f97e929be716476dd36e1eaff83ca71e98",
   "matches": {
     "Intern": {
-      "snippet": "…nhancing core technology. Oversee platform operations, ensure data governance, and collaborate with internal and external partners. Ideal for experienced leaders with strong technical and communication skil…",
+      "snippet": "…atbot Sounds A quick heads up to let you know that when you use our AI-powered chat bot, Mastercard International Inc. and its affiliates and third-party suppliers process your personal information in conne…",
       "first_seen": "2026-09-28T15:24:28Z"
-    },
-    "Software Engineer": {
-      "snippet": "…with strong analytical skills and experience in payments, financial services, or fintech. Principal Software Engineer Location Atlanta, United States of America, 30308 Category Engineering Job ID R-280197 Exciting opp…",
-      "first_seen": "2026-11-09T05:04:28Z"
     }
   }
 }

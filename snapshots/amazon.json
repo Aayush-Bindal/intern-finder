@@ -1,12 +1,12 @@
 {
   "company": "Amazon",
   "url": "https://www.amazon.jobs/en/search?loc_query=India",
-  "last_checked": "2026-11-09T15:21:27Z",
-  "text_length": 43543,
-  "text_sha1": "4f0f5e017913810bcf871e2e3d2271d01984dc81",
+  "last_checked": "2026-11-10T01:13:54Z",
+  "text_length": 44564,
+  "text_sha1": "d7ab8fde05b8209f97b2656fd1a54a1e3fdaa10f",
   "matches": {
     "Summer": {
-      "snippet": "…7) 7 jobs Seffner(7) 7 jobs Sosnowiec(7) 7 jobs Stockton-on-Tees(7) 7 jobs Stone Mountain(7) 7 jobs Summerville(7) 7 jobs Taguig City(7) 7 jobs Trenton(7) 7 jobs Ulsan(7) 7 jobs Vacaville(7) 7 jobs Varennes…",
+      "snippet": "…7 jobs Sosnowiec(7) 7 jobs Stockton-on-Tees(7) 7 jobs Stone Mountain(7) 7 jobs Stoughton(7) 7 jobs Summerville(7) 7 jobs Taguig City(7) 7 jobs Trenton(7) 7 jobs Ulsan(7) 7 jobs Vacaville(7) 7 jobs Varennes…",
       "first_seen": "2026-09-28T15:12:58Z"
     }
   }
