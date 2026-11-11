@@ -1,13 +1,25 @@
 {
   "company": "Qualcomm",
   "url": "https://careers.qualcomm.com/careers/search?location=India",
-  "last_checked": "2026-11-10T22:56:22Z",
-  "text_length": 10457,
-  "text_sha1": "ec4f51d92f936d62eee24ab8869ca30a248c78b5",
+  "last_checked": "2026-11-11T04:56:59Z",
+  "text_length": 6859,
+  "text_sha1": "1f985df97118068136e925efb25fc3c816426c73",
   "matches": {
+    "Engineering Intern": {
+      "snippet": "…nt Counsel San Diego, California, United States of America Legal Counsel Posted a month ago Interim Engineering Intern_2027_HW Bangalore, India + 1 more Interim Engineering Intern - HW Posted 2 months ago Patent Counse…",
+      "first_seen": "2026-11-11T04:56:57Z"
+    },
+    "Software Intern": {
+      "snippet": "…hs) Markham, Ontario, Canada Interim Engineering Intern - Systems Posted 2 months ago FY27 Intern - Software Intern (Data Center, Cloud-AI Engineering) - Cork Cork, Ireland Interim Intern Posted 5 months ago FY27 In…",
+      "first_seen": "2026-11-11T04:56:57Z"
+    },
     "Engineer": {
-      "snippet": "…Senior Android SW Product Manager Hyderabad, Telangāna, India Product Management Posted a month ago Engineer - RF SW - M.Tech - Communication background - 2025/26 Hyderabad, Telangāna, India Software Engineer…",
+      "snippet": "…x Analyst-Senior Hyderabad, Telangāna, India Tax Posted a month ago CPU Design Verification Sr Lead Engineer Hyderabad, Telangāna, India Hardware Engineering Posted 16 days ago Staff Manager – Bluetooth Testi…",
       "first_seen": "2026-09-28T15:14:16Z"
+    },
+    "Summer": {
+      "snippet": "…years 4 - 8 years 8+ years Top skills Criminal Law Previously worked as 1. Interim Patent Intern 2. Summer Associate 3. Intellectual Property Associate 4. Programmer Analyst 5. Legal Similar jobs European P…",
+      "first_seen": "2026-11-11T04:56:57Z"
     }
   }
 }
