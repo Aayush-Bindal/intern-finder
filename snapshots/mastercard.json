@@ -1,16 +1,16 @@
 {
   "company": "Mastercard",
   "url": "https://careers.mastercard.com/",
-  "last_checked": "2026-11-11T13:50:38Z",
-  "text_length": 6037,
-  "text_sha1": "d25668c3f5b6fc57e1ef66a0f1955578eebfe870",
+  "last_checked": "2026-11-12T00:18:29Z",
+  "text_length": 6102,
+  "text_sha1": "efc55a03609621ca1d3b24dc210e40423f3e88f3",
   "matches": {
     "Intern": {
       "snippet": "…atbot Sounds A quick heads up to let you know that when you use our AI-powered chat bot, Mastercard International Inc. and its affiliates and third-party suppliers process your personal information in conne…",
       "first_seen": "2026-09-28T15:24:28Z"
     },
     "Software Engineer": {
-      "snippet": "…ineering teams. Ideal for experienced professionals with strong graph analytics expertise. Manager, Software Engineering Location Pune, India, 411006 Category Engineering Job ID R-289050 We are looking for a Manager,…",
+      "snippet": "…iew the government form and more information about this requirement. Be the First to Apply Manager, Software Engineering Location Pune, India, 411006 Category Engineering Job ID R-281599 We are seeking a Manager, Soft…",
       "first_seen": "2026-11-10T14:37:25Z"
     }
   }
