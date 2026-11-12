@@ -1,12 +1,12 @@
 {
   "company": "Amazon",
   "url": "https://www.amazon.jobs/en/search?loc_query=India",
-  "last_checked": "2026-11-12T00:07:13Z",
-  "text_length": 44081,
-  "text_sha1": "0543dfbe0ff1047224cdfa4bac0a68bc5fb52eaf",
+  "last_checked": "2026-11-12T14:43:29Z",
+  "text_length": 45277,
+  "text_sha1": "5e3473ea081d9a288f876d3e13fcf11e2ab2d832",
   "matches": {
     "Summer": {
-      "snippet": "…alem(7) 7 jobs Seffner(7) 7 jobs Sosnowiec(7) 7 jobs Stockton-on-Tees(7) 7 jobs Stoughton(7) 7 jobs Summerville(7) 7 jobs Ulsan(7) 7 jobs Vacaville(7) 7 jobs Varennes(7) 7 jobs Vienna(7) 7 jobs Yotsukaido-s…",
+      "snippet": "…ford(7) 7 jobs Seffner(7) 7 jobs Sosnowiec(7) 7 jobs Stockton-on-Tees(7) 7 jobs Stoughton(7) 7 jobs Summerville(7) 7 jobs Vacaville(7) 7 jobs Varennes(7) 7 jobs Vienna(7) 7 jobs Whitestown(7) 7 jobs Witten(…",
       "first_seen": "2026-09-28T15:12:58Z"
     }
   }
