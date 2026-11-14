@@ -1,8 +1,13 @@
 {
   "company": "Microsoft",
   "url": "https://jobs.careers.microsoft.com/global/en/search?lc=India",
-  "last_checked": "2026-11-13T23:18:11Z",
-  "text_length": 12296,
-  "text_sha1": "29af2aebc2be034916b0b43b4d079a11061a2444",
-  "matches": {}
+  "last_checked": "2026-11-14T05:10:09Z",
+  "text_length": 8474,
+  "text_sha1": "f0defb166cd4c5fb9c277ae84a39014b32904426",
+  "matches": {
+    "Summer": {
+      "snippet": "…rn, you’ll also be part of the Marketing Aspire MBA Rotation Program (MAMBA), which begins with the summer internship. If you receive and accept an offer to return to Microsoft Marketing full-time after gra…",
+      "first_seen": "2026-11-14T05:10:09Z"
+    }
+  }
 }
