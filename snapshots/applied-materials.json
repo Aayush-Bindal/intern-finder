@@ -1,12 +1,16 @@
 {
   "company": "Applied Materials",
   "url": "https://careers.appliedmaterials.com/",
-  "last_checked": "2026-11-14T13:12:34Z",
-  "text_length": 9494,
-  "text_sha1": "36081cf8d0a30907dfae13e12584f75697405a42",
+  "last_checked": "2026-11-14T22:10:49Z",
+  "text_length": 9437,
+  "text_sha1": "59c622cce46f5b445a170d0e9518804642b3f782",
   "matches": {
+    "Summer 2027": {
+      "snippet": "…sted a day ago Materials Project Manager III Austin,TX Project/Program Management Posted 2 days ago Summer 2027 Associate Finance Intern (MBA - Santa Clara, CA) Santa Clara,CA Interns Posted 2 days ago Technical…",
+      "first_seen": "2026-11-14T22:10:48Z"
+    },
     "Intern": {
-      "snippet": "…and handling sensitive situations. Collaborates effectively with customers, vendors, suppliers, and internal stakeholders. Minimum Qualifications Completion of Associate's Degree Preferred Qualifications Ba…",
+      "snippet": "…ct Manager III Austin,TX Project/Program Management Posted 2 days ago Summer 2027 Associate Finance Intern (MBA - Santa Clara, CA) Santa Clara,CA Interns Posted 2 days ago Technical Project/Program Manageme…",
       "first_seen": "2026-09-28T15:23:34Z"
     }
   }
