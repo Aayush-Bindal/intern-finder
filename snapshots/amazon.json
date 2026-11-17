@@ -1,12 +1,12 @@
 {
   "company": "Amazon",
   "url": "https://www.amazon.jobs/en/search?loc_query=India",
-  "last_checked": "2026-11-17T01:39:23Z",
-  "text_length": 45061,
-  "text_sha1": "17c4ec6c6a4790653c003f1abcb2d41b4b1d9156",
+  "last_checked": "2026-11-17T15:34:19Z",
+  "text_length": 45317,
+  "text_sha1": "d2e024d62c1350bbe70f63cd944310fe6af22f67",
   "matches": {
     "Summer": {
-      "snippet": "…iro(7) 7 jobs Sevrey(7) 7 jobs Sosnowiec(7) 7 jobs Stevensburg(7) 7 jobs Stockton-on-Tees(7) 7 jobs Summerville(7) 7 jobs Ulsan(7) 7 jobs Vienna(7) 7 jobs Waterfall(7) 7 jobs Yotsukaido-shi(7) 7 jobs Zapopa…",
+      "snippet": "…iro(7) 7 jobs Sevrey(7) 7 jobs Sosnowiec(7) 7 jobs Stevensburg(7) 7 jobs Stockton-on-Tees(7) 7 jobs Summerville(7) 7 jobs Warrington(7) 7 jobs Waterfall(7) 7 jobs Yotsukaido-shi(7) 7 jobs Zapopan(7) 7 jobs…",
       "first_seen": "2026-09-28T15:12:58Z"
     }
   }
