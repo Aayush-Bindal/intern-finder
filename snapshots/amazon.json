@@ -1,12 +1,12 @@
 {
   "company": "Amazon",
   "url": "https://www.amazon.jobs/en/search?loc_query=India",
-  "last_checked": "2026-11-18T00:36:51Z",
-  "text_length": 44460,
-  "text_sha1": "49eea8d7911808dbdaa022e4d86005c8bc8942d6",
+  "last_checked": "2026-11-18T15:14:36Z",
+  "text_length": 43383,
+  "text_sha1": "8d5c5bc07b78e587ee3beb3fcbfbdd9e68ae451b",
   "matches": {
     "Summer": {
-      "snippet": "…o(7) 7 jobs Santa Clarita(7) 7 jobs Sevrey(7) 7 jobs Sosnowiec(7) 7 jobs Stockton-on-Tees(7) 7 jobs Summerville(7) 7 jobs Troutdale(7) 7 jobs Warrington(7) 7 jobs Waterfall(7) 7 jobs Yotsukaido-shi(7) 7 job…",
+      "snippet": "…o(7) 7 jobs Santa Clarita(7) 7 jobs Sevrey(7) 7 jobs Sosnowiec(7) 7 jobs Stockton-on-Tees(7) 7 jobs Summerville(7) 7 jobs Tokai-shi(7) 7 jobs Troutdale(7) 7 jobs Waterfall(7) 7 jobs Zapopan(7) 7 jobs Świebo…",
       "first_seen": "2026-09-28T15:12:58Z"
     }
   }

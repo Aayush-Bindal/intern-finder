@@ -1,12 +1,12 @@
 {
   "company": "Google",
   "url": "https://www.google.com/about/careers/applications/jobs/results/?location=India",
-  "last_checked": "2026-11-18T00:38:09Z",
-  "text_length": 13581,
-  "text_sha1": "4daac744bec59673e70cd215cf03f6f55e0098d6",
+  "last_checked": "2026-11-18T15:16:19Z",
+  "text_length": 13839,
+  "text_sha1": "6ef1dd0ceafded3479fddbe797f2eb687dc61923",
   "matches": {
     "Bengaluru": {
-      "snippet": "…e Jobs search results Senior Forward Deployed Engineer, GenAI, YouTube corporate_fare YouTube place Bengaluru, Karnataka, India bar_chart Mid Minimum qualifications Bachelor's degree in Computer Science, Elect…",
+      "snippet": "…pand_more Jobs search results Senior Software Engineer, Search AI Infra corporate_fare Google place Bengaluru, Karnataka, India bar_chart Mid Minimum qualifications Bachelor’s degree or equivalent practical ex…",
       "first_seen": "2026-09-28T15:14:08Z"
     }
   }
