@@ -1,10 +1,14 @@
 {
   "company": "SAP",
   "url": "https://www.sap.com/india/careers.html",
-  "last_checked": "2026-11-17T15:42:40Z",
-  "text_length": 5727,
-  "text_sha1": "e271cbfad990aaed2b0aa671073078b1a2b8cc56",
+  "last_checked": "2026-11-18T00:45:08Z",
+  "text_length": 5708,
+  "text_sha1": "b01a27a355812e8f8093be341ea98f14a8420fb7",
   "matches": {
+    "Summer 2027": {
+      "snippet": "…DY TO TAKE THE NEXT STEP? Jobs at SAP Browse our latest openings. SAP iXp Intern - Value Advisory - SUMMER 2027 Teams: Information Technology Locations: Toronto, Canada Display Date: Today Work Pattern Hybrid -…",
+      "first_seen": "2026-11-18T00:45:07Z"
+    },
     "Internship": {
       "snippet": "…. Here, you can be yourself and do your best work. WHERE DO YOU FIT? Find your path at SAP Students Internships, student roles, and placement opportunities that offer real-world experience alongside your studie…",
       "first_seen": "2026-09-28T15:21:37Z"
