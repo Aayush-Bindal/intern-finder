@@ -1,17 +1,17 @@
 {
   "company": "Mastercard",
   "url": "https://careers.mastercard.com/",
-  "last_checked": "2026-11-19T06:31:33Z",
-  "text_length": 6159,
-  "text_sha1": "6d589c67caeb8953e2046775e7e80ecf1d911f00",
+  "last_checked": "2026-11-19T20:11:15Z",
+  "text_length": 6150,
+  "text_sha1": "d546cd9fcf37de7aea9d3e2c23d9844b8c554554",
   "matches": {
-    "Intern": {
-      "snippet": "…atbot Sounds A quick heads up to let you know that when you use our AI-powered chat bot, Mastercard International Inc. and its affiliates and third-party suppliers process your personal information in conne…",
-      "first_seen": "2026-09-28T15:24:28Z"
+    "Summer 2027": {
+      "snippet": "…s and experience in payments, financial services, or account management. Product Management Intern, Summer 2027 – Dubai, UAE (UAE Nationals Preferred) Location United Arab Emirates Category Other Job ID R-287599…",
+      "first_seen": "2026-11-19T20:11:14Z"
     },
-    "Software Engineer": {
-      "snippet": "…with experience in software integration and proficiency in JavaScript and API integrations. Senior software engineer Location Pune, India, 411006 Category Engineering Job ID R-290601 Senior Software Engineer - Cardho…",
-      "first_seen": "2026-11-19T06:31:32Z"
+    "Intern": {
+      "snippet": "…al skills and experience in payments, financial services, or account management. Product Management Intern, Summer 2027 – Dubai, UAE (UAE Nationals Preferred) Location United Arab Emirates Category Other Jo…",
+      "first_seen": "2026-09-28T15:24:28Z"
     }
   }
 }

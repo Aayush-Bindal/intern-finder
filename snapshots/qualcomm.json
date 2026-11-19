@@ -1,12 +1,16 @@
 {
   "company": "Qualcomm",
   "url": "https://careers.qualcomm.com/careers/search?location=India",
-  "last_checked": "2026-11-19T06:22:40Z",
-  "text_length": 7664,
-  "text_sha1": "4d76d29ff907c57345561115b63ccc8da936d466",
+  "last_checked": "2026-11-19T20:02:18Z",
+  "text_length": 11290,
+  "text_sha1": "bcaa506b6dac04a7e8dca060a6ffd69526a052fa",
   "matches": {
+    "Engineering Intern": {
+      "snippet": "…ems Engineer – PHY & RF Hyderabad, Telangāna, India Systems Engineering Posted 6 months ago Interim Engineering Intern_2027_HW Bangalore, India + 1 more Interim Engineering Intern - HW Posted 2 months ago GAOC Accounta…",
+      "first_seen": "2026-11-19T20:02:17Z"
+    },
     "Engineer": {
-      "snippet": "…er journey Upload resume 543 jobs Sort: Distance Show map Turn on job alerts for this search Manage Engineer - Linker Developer Hyderabad, Telangāna, India Software Engineering Posted 4 months ago Engineer, S…",
+      "snippet": "…nagement Posted 3 months ago AWS Databricks Architect -Sr Staff Hyderabad, Telangāna, India IT Data Engineer Posted 7 months ago Staff Data Scientist Hyderabad, Telangāna, India Data Science Posted 2 months a…",
       "first_seen": "2026-09-28T15:14:16Z"
     }
   }
