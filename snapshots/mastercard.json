@@ -1,12 +1,16 @@
 {
   "company": "Mastercard",
   "url": "https://careers.mastercard.com/",
-  "last_checked": "2026-11-18T15:25:18Z",
-  "text_length": 6226,
-  "text_sha1": "05d53b9beb52d419187e846efb00ef77d279c9c5",
+  "last_checked": "2026-11-19T00:06:34Z",
+  "text_length": 6209,
+  "text_sha1": "d779bde0ead58c525cb702761b67716e7b26853f",
   "matches": {
+    "Summer 2027": {
+      "snippet": "…form and more information about this requirement. Be the First to Apply Product Management Intern, Summer 2027 – Dubai, UAE (UAE Nationals Preferred) Location United Arab Emirates Category Other Job ID R-287599…",
+      "first_seen": "2026-11-19T00:06:33Z"
+    },
     "Intern": {
-      "snippet": "…atbot Sounds A quick heads up to let you know that when you use our AI-powered chat bot, Mastercard International Inc. and its affiliates and third-party suppliers process your personal information in conne…",
+      "snippet": "…vernment form and more information about this requirement. Be the First to Apply Product Management Intern, Summer 2027 – Dubai, UAE (UAE Nationals Preferred) Location United Arab Emirates Category Other Jo…",
       "first_seen": "2026-09-28T15:24:28Z"
     }
   }
