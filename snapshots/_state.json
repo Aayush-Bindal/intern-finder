@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-11-19T00:09:08Z",
+  "last_run": "2026-11-19T06:34:03Z",
   "companies_checked": 95,
   "failures": [
     "Krutrim",
@@ -12,7 +12,6 @@
     "OfBusiness",
     "Honeywell",
     "Schneider Electric",
-    "Texas Instruments",
     "Morgan Stanley"
   ],
   "emails_sent": 1
