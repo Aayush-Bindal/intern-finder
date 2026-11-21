@@ -1,17 +1,13 @@
 {
   "company": "Mastercard",
   "url": "https://careers.mastercard.com/",
-  "last_checked": "2026-11-21T06:00:38Z",
-  "text_length": 5600,
-  "text_sha1": "2f96cb5de117849fbbb6fde082d41719014b23e3",
+  "last_checked": "2026-11-21T14:28:34Z",
+  "text_length": 6140,
+  "text_sha1": "9f3bcf2a5c3805fe0b23568c49203a3b636a4e19",
   "matches": {
     "Intern": {
-      "snippet": "…atbot Sounds A quick heads up to let you know that when you use our AI-powered chat bot, Mastercard International Inc. and its affiliates and third-party suppliers process your personal information in conne…",
+      "snippet": "…email. View the government form and more information about this requirement. Be the First to Apply Intern, Technical Program Management - Dubai, United Arab Emirates Location United Arab Emirates Category…",
       "first_seen": "2026-09-28T15:24:28Z"
-    },
-    "Software Engineer": {
-      "snippet": "…View the government form and more information about this requirement. Be the First to Apply Senior Software Engineer Location Pune, India, 411006 Category Engineering Job ID R-211833 Design and develop test automatio…",
-      "first_seen": "2026-11-20T06:06:38Z"
     }
   }
 }
