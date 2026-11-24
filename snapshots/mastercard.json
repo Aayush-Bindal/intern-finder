@@ -1,12 +1,12 @@
 {
   "company": "Mastercard",
   "url": "https://careers.mastercard.com/",
-  "last_checked": "2026-11-23T18:08:59Z",
-  "text_length": 6172,
-  "text_sha1": "a38c375dae1a3bf7c079cbbf171a185f365166a9",
+  "last_checked": "2026-11-24T04:03:16Z",
+  "text_length": 6166,
+  "text_sha1": "e3a1a4f81dc85e4e4001bdf387bc2f9559a10a61",
   "matches": {
     "Intern": {
-      "snippet": "…ored solutions for clients. Lead the sales process, manage contract execution, and collaborate with internal teams. Ideal for experienced consultants with strong analytical and communication skills. Vice Pr…",
+      "snippet": "…atbot Sounds A quick heads up to let you know that when you use our AI-powered chat bot, Mastercard International Inc. and its affiliates and third-party suppliers process your personal information in conne…",
       "first_seen": "2026-09-28T15:24:28Z"
     }
   }
