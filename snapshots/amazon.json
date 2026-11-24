@@ -1,12 +1,12 @@
 {
   "company": "Amazon",
   "url": "https://www.amazon.jobs/en/search?loc_query=India",
-  "last_checked": "2026-11-24T03:52:23Z",
-  "text_length": 44322,
-  "text_sha1": "e2d0437cd6bdfb86f24af996f54d891581acb7f3",
+  "last_checked": "2026-11-24T17:02:13Z",
+  "text_length": 42793,
+  "text_sha1": "87a166c0e28db2ac79e883ccbb8f3c32a6a7616a",
   "matches": {
     "Summer": {
-      "snippet": "…8 jobs Rio de Janeiro(8) 8 jobs Robbinsville(8) 8 jobs Shinagawa-ku(8) 8 jobs Stevensburg(8) 8 jobs Summerville(8) 8 jobs Ulm(8) 8 jobs Ulsan(8) 8 jobs Vasteras(8) 8 jobs Wakefield(8) 8 jobs Aberdeen(7) 7 j…",
+      "snippet": "…Rovigo(8) 8 jobs San Marcos(8) 8 jobs Saran(8) 8 jobs Shinagawa-ku(8) 8 jobs Stevensburg(8) 8 jobs Summerville(8) 8 jobs Ulm(8) 8 jobs Ulsan(8) 8 jobs Wakefield(8) 8 jobs Aberdeen(7) 7 jobs Adelaide(7) 7 j…",
       "first_seen": "2026-09-28T15:12:58Z"
     }
   }

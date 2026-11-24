@@ -1,12 +1,16 @@
 {
   "company": "Qualcomm",
   "url": "https://careers.qualcomm.com/careers/search?location=India",
-  "last_checked": "2026-11-24T03:53:45Z",
-  "text_length": 8809,
-  "text_sha1": "6c58924d4058d8be4c9d6acd1632fb6b80c11746",
+  "last_checked": "2026-11-24T17:03:41Z",
+  "text_length": 8928,
+  "text_sha1": "766d22c546eac07f261e998e75aa863cc04fb860",
   "matches": {
+    "Engineering Intern": {
+      "snippet": "…mplementation Engineer Hyderabad, Telangāna, India Hardware Engineering Posted 3 months ago Interim Engineering Intern_2027_HW Bangalore, India + 1 more Interim Engineering Intern - HW Posted 3 months ago Staff Enginee…",
+      "first_seen": "2026-11-24T17:03:40Z"
+    },
     "Engineer": {
-      "snippet": "…pload your resume 546 jobs Sort: Distance Show map Turn on job alerts for this search Manage Senior Engineer - Linux Kernel Development Hyderabad, Telangāna, India Software Engineering Posted 4 days ago Senio…",
+      "snippet": "…jobs Sort: Distance Show map Turn on job alerts for this search Manage Chipset Power Systems -Staff Engineer Hyderabad, Telangāna, India Systems Engineering Posted 7 days ago SOC Design Implementation Enginee…",
       "first_seen": "2026-09-28T15:14:16Z"
     }
   }
