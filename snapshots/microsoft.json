@@ -1,8 +1,13 @@
 {
   "company": "Microsoft",
   "url": "https://jobs.careers.microsoft.com/global/en/search?lc=India",
-  "last_checked": "2026-11-24T17:02:24Z",
-  "text_length": 9357,
-  "text_sha1": "77c558b51457ea82fa97ddf90f6328d4377bd6f1",
-  "matches": {}
+  "last_checked": "2026-11-25T01:57:45Z",
+  "text_length": 8046,
+  "text_sha1": "b45336ac5232c5ad519f741ea1762bc4d4526a01",
+  "matches": {
+    "Summer": {
+      "snippet": "…available in all areas of research, and are offered year-round, though they typically begin in the summer. Qualifications Required Qualifications Currently enrolled in a Doctorate Degree program in Compute…",
+      "first_seen": "2026-11-25T01:57:45Z"
+    }
+  }
 }
