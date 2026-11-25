@@ -1,12 +1,12 @@
 {
   "company": "Google",
   "url": "https://www.google.com/about/careers/applications/jobs/results/?location=India",
-  "last_checked": "2026-11-25T01:58:53Z",
-  "text_length": 13150,
-  "text_sha1": "33072e4c238c1fba022dbc06623575831734a6bb",
+  "last_checked": "2026-11-25T16:54:44Z",
+  "text_length": 13072,
+  "text_sha1": "ff5ee7006aadb33af59047616833e8adbfd57f33",
   "matches": {
     "Bengaluru": {
-      "snippet": "…pand_more Jobs search results Senior Software Engineer, Search AI Infra corporate_fare Google place Bengaluru, Karnataka, India bar_chart Mid Minimum qualifications Bachelor’s degree or equivalent practical ex…",
+      "snippet": "…search results Design Verification Engineer, TPU, Silicon, Google Cloud corporate_fare Google place Bengaluru, Karnataka, India bar_chart Mid Minimum qualifications Bachelor's degree in Electrical Engineering…",
       "first_seen": "2026-09-28T15:14:08Z"
     }
   }
