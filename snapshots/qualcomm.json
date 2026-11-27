@@ -1,8 +1,13 @@
 {
   "company": "Qualcomm",
   "url": "https://careers.qualcomm.com/careers/search?location=India",
-  "last_checked": "2026-11-26T16:31:33Z",
-  "text_length": 1582,
-  "text_sha1": "586c4dae720cccdb7fd704884df046e20560e93f",
-  "matches": {}
+  "last_checked": "2026-11-27T01:33:22Z",
+  "text_length": 8620,
+  "text_sha1": "9b1f83f5f3ad93b98d2a7a817b4f417c48c76e69",
+  "matches": {
+    "Engineer": {
+      "snippet": "…Chipset SW Program Manager Hyderabad, Telangāna, India Program Management Posted 2 months ago Lead Engineer, Senior-Machine Learning, embedded, C++ Hyderabad, Telangāna, India Software Engineering Posted a m…",
+      "first_seen": "2026-11-27T01:33:22Z"
+    }
+  }
 }
