@@ -1,13 +1,25 @@
 {
   "company": "Qualcomm",
   "url": "https://careers.qualcomm.com/careers/search?location=India",
-  "last_checked": "2026-11-27T16:16:34Z",
-  "text_length": 7626,
-  "text_sha1": "21788546c64d849e2aa07e6a68110f9ba2e69ae1",
+  "last_checked": "2026-11-28T01:11:46Z",
+  "text_length": 7722,
+  "text_sha1": "555e998c1bc76ce38c40730fcb4b39ab6910e3bf",
   "matches": {
+    "Summer 2027": {
+      "snippet": "…merica ASICS Engineering Posted 2 months ago RF/Analog Design/Mixed-Signal Engineering Internship – Summer 2027 San Diego, California, United States of America + 3 more Interim Engineering Intern - HW Posted 2 m…",
+      "first_seen": "2026-11-28T01:11:44Z"
+    },
+    "Engineering Intern": {
+      "snippet": "…load your resume 554 jobs Sort: Distance Show map Turn on job alerts for this search Manage Interim Engineering Intern_2027_HW Bangalore, India + 1 more Interim Engineering Intern - HW Posted 3 months ago Senior Engine…",
+      "first_seen": "2026-11-28T01:11:44Z"
+    },
     "Engineer": {
-      "snippet": "…urney Upload your resume 554 jobs Sort: Distance Show map Turn on job alerts for this search Manage Engineer - Linker Developer Hyderabad, Telangāna, India Software Engineering Posted 5 months ago Engineer, S…",
+      "snippet": "…load your resume 554 jobs Sort: Distance Show map Turn on job alerts for this search Manage Interim Engineering Intern_2027_HW Bangalore, India + 1 more Interim Engineering Intern - HW Posted 3 months ago Sen…",
       "first_seen": "2026-11-27T01:33:22Z"
+    },
+    "Summer": {
+      "snippet": "…merica ASICS Engineering Posted 2 months ago RF/Analog Design/Mixed-Signal Engineering Internship – Summer 2027 San Diego, California, United States of America + 3 more Interim Engineering Intern - HW Poste…",
+      "first_seen": "2026-11-28T01:11:44Z"
     }
   }
 }

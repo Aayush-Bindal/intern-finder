@@ -1,12 +1,12 @@
 {
   "company": "Amazon",
   "url": "https://www.amazon.jobs/en/search?loc_query=India",
-  "last_checked": "2026-11-27T16:15:11Z",
-  "text_length": 44076,
-  "text_sha1": "46225c20e7b4732f57f4a96c4c3a79e8b830f738",
+  "last_checked": "2026-11-28T01:10:21Z",
+  "text_length": 44031,
+  "text_sha1": "6ec85cf07ca41e9ee885492d7fcc6bb9f45585e1",
   "matches": {
     "Summer": {
-      "snippet": "…Reno(8) 8 jobs Rio de Janeiro(8) 8 jobs San Marcos(8) 8 jobs Saran(8) 8 jobs Spartanburg(8) 8 jobs Summerville(8) 8 jobs Ulsan(8) 8 jobs Wakefield(8) 8 jobs American Fork(7) 7 jobs Apodaca(7) 7 jobs Astori…",
+      "snippet": "…jobs Reno(9) 9 jobs Rheinberg(9) 9 jobs Robbinsville(9) 9 jobs Ruskin(9) 9 jobs St Thomas(9) 9 jobs Summerville(9) 9 jobs Ulm(9) 9 jobs Vercelli(9) 9 jobs Akron(8) 8 jobs Alcalá de Henares(8) 8 jobs Appling…",
       "first_seen": "2026-09-28T15:12:58Z"
     }
   }
